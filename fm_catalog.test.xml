@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fm_catalog date="2025-01-14 10:45">
+    <shop>
+        <merchant-id>9VYpqYXvl77LkHvenw</merchant-id>
+        <offers>
+            <offer sku="12341">
+                <name>Чехол для iPhone 12</name>
+                <vendor>Apple</vendor>
+
+                <pickup-options>
+                    <pickup-option id="PP16"/>
+                </pickup-options>
+                <delivery-options>
+                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
+                </delivery-options>
+                <price>99990</price>
+            </offer>
+        </offers>
+    </shop>
+</fm_catalog>
