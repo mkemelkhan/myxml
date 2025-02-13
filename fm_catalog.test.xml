@@ -15,6 +15,18 @@
                 </delivery-options>
                 <price>99990</price>
             </offer>
+            <offer sku="12342">
+                <name>Чехол для iPhone 13</name>
+                <vendor>Apple</vendor>
+
+                <pickup-options>
+                    <pickup-option id="PP16"/>
+                </pickup-options>
+                <delivery-options>
+                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
+                </delivery-options>
+                <price>99990</price>
+            </offer>
         </offers>
     </shop>
 </fm_catalog>
