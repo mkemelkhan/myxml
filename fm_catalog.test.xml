@@ -27,6 +27,9 @@
                 </delivery-options>
                 <price>99990</price>
             </offer>
+            <external_ids>
+                <kaspi>108302459</kaspi>
+            </external_ids>
         </offers>
     </shop>
 </fm_catalog>
