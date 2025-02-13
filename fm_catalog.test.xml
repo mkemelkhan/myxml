@@ -4,7 +4,7 @@
         <merchant-id>9VYpqYXvl77LkHvenw</merchant-id>
         <offers>
             <offer sku="12341">
-                <name>Чехол для iPhone 12</name>
+                <name>Чехол для iPhone 12 тест</name>
                 <vendor>Apple</vendor>
 
                 <pickup-options>
@@ -16,7 +16,7 @@
                 <price>99990</price>
             </offer>
             <offer sku="12342">
-                <name>Чехол для iPhone 13</name>
+                <name>Чехол для iPhone 13 тест</name>
                 <vendor>Apple</vendor>
 
                 <pickup-options>
