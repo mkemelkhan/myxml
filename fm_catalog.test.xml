@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2025-02-13 17:01">
+<fm_catalog date="2025-02-14 12:26">
     <shop>
         <merchant-id>9VYpqYXvl77LkHvenw</merchant-id>
         <offers>
@@ -27,9 +27,6 @@
                 </delivery-options>
                 <price>99990</price>
             </offer>
-            <external_ids>
-                <kaspi>108302459</kaspi>
-            </external_ids>
         </offers>
     </shop>
 </fm_catalog>
