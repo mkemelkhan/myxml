@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2025-02-14 12:26">
+<fm_catalog date="2025-03-12 14:20">
     <shop>
         <merchant-id>9VYpqYXvl77LkHvenw</merchant-id>
         <offers>
@@ -17,6 +17,18 @@
             </offer>
             <offer sku="12342">
                 <name>Чехол для iPhone 13 тест</name>
+                <vendor>Apple</vendor>
+
+                <pickup-options>
+                    <pickup-option id="PP16"/>
+                </pickup-options>
+                <delivery-options>
+                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
+                </delivery-options>
+                <price>99990</price>
+            </offer>
+                        <offer sku="12343">
+                <name>Чехол для iPhone 16 тест</name>
                 <vendor>Apple</vendor>
 
                 <pickup-options>
