@@ -5,7 +5,7 @@
         <offers>
             <offer sku="12341">
                 <name>Чехол для iPhone 12 тест</name>
-                <vendor>Apple</vendor>
+                </vendor>
 
                 <pickup-options>
                     <pickup-option id="PP16"/>
