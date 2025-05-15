@@ -1,44 +1,5865 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fm_catalog date="2025-05-05 11:12">
     <shop>
-        <merchant-id>9VYpqYXvl77LkHvenw</merchant-id>
-        <offers>
-            <offer sku="12341">
-                <name>Чехол для iPhone 12 тест</name>
-                <vendor>Apple</vendor>
-
-                <pickup-options>
-                    <pickup-option id="PP16"/>
-                </pickup-options>
-                <delivery-options>
-                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
-                </delivery-options>
-                <price>99990</price>
-            </offer>
-            <offer sku="12342">
-                <name>Чехол для iPhone 13 тест</name>
-                <vendor>Apple</vendor>
-
-                <pickup-options>
-                    <pickup-option id="PP16"/>
-                </pickup-options>
-                <delivery-options>
-                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
-                </delivery-options>
-                <price>99990</price>
-            </offer>
-                <offer sku="12344">
-                <name>Чехол для iPhone 15 тест</name>
-                <vendor>Apple</vendor>
-
-                <pickup-options>
-                    <pickup-option id="PP16"/>
-                </pickup-options>
-                <delivery-options>
-                    <delivery-option city-id="KZ-ALA" cost="499" days="6" />
-                </delivery-options>
-                <price>99990</price>
-            </offer>
-        </offers>
+        <merchant-id>9f1C1IDWrgzzuSQbFQ</merchant-id>
+<offers>
+<offer sku="2701066">
+<name>Pozis RK-139 серебристый металлопласт</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>179990</price>
+</offer>
+<offer sku="101190323">
+<name>Ritmix RDM-260 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31100</price>
+</offer>
+<offer sku="115412078_855811003">
+<name>ONYX BOOX Magellan 5 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109997</price>
+</offer>
+<offer sku="117413633_143868275">
+<name>Kraft BD W - 280RX 280 л белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>200489</price>
+</offer>
+<offer sku="22700439">
+<name>Набор инструментов автомобильный 58 в 1 STELS 14113</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>79890</price>
+</offer>
+<offer sku="104802352_287144342">
+<name>Бассейн каркасный Bestway 56408, 305x76 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>49996</price>
+</offer>
+<offer sku="2700283">
+<name>Pozis RK-149 белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>178997</price>
+</offer>
+<offer sku="103728419">
+<name>Бассейн каркасный Bestway 56411, 300x201x66 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>55870</price>
+</offer>
+<offer sku="118485356_098288911">
+<name>Смартфон Xiaomi Redmi Note 13 Pro 4G Global 12 ГБ/512 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>141990</price>
+</offer>
+<offer sku="101186418_599789943">
+<name>Бассейн каркасный Bestway 56629, 282x196x84 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>141859</price>
+</offer>
+<offer sku="116417530_060741154">
+<name>Realme C67 6 ГБ/128 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>76638</price>
+</offer>
+<offer sku="117761459_815287750">
+<name>Tefal X-Trem Cyclonic Effitech TW7C89EA черный, бронзовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>152000</price>
+</offer>
+<offer sku="116991722_341522094">
+<name>GIGABYTE G6 KF 16" / 16 Гб / SSD 1000 Гб / DOS / KF-H3KZ854KD</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>646300</price>
+</offer>
+<offer sku="103014833">
+<name>Atlant ХМ-4621-149-ND серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>267000</price>
+</offer>
+<offer sku="106381787">
+<name>ART-Wave XTY-767 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>28750</price>
+</offer>
+<offer sku="116338083_954392252">
+<name>SVEN PS-1500</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>115987</price>
+</offer>
+<offer sku="116760065_747055285">
+<name>SVEN PS-1900</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>169989</price>
+</offer>
+<offer sku="111544211_888472710">
+<name>GRAND GRBF-340SSNFI стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>198100</price>
+</offer>
+<offer sku="121401779_519721254">
+<name>GRAND GRBF-340SNFI серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>190800</price>
+</offer>
+<offer sku="104730159">
+<name>Кондиционер Midea Aurora 2 MSAA-12HRN8 + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>169700</price>
+</offer>
+<offer sku="119345356_652673288">
+<name>HAUSLER Corded stik vacuum cleaner HLS-06TT5NCRBS RED красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>18900</price>
+</offer>
+<offer sku="112316363_707502707">
+<name>Hansa BOEIS694655 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>172316</price>
+</offer>
+<offer sku="111547254_812538793">
+<name>Hansa FCCX58103 черный-серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>263990</price>
+</offer>
+<offer sku="130345206_628768229">
+<name>AVANT WM-FAF70W-G серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>139990</price>
+</offer>
+<offer sku="110790512_325843442">
+<name>Tefal IXEO POWER QT2022E1 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>409078</price>
+</offer>
+<offer sku="100176522">
+<name>Аэрогриль CENTEK CT-1456</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35500</price>
+</offer>
+<offer sku="102004914_129555294">
+<name>Rowenta Power Straight CF5820F0 расческа-выпрямитель</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52260</price>
+</offer>
+<offer sku="121188774_407083972">
+<name>GEFEST 1210-02 K2 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>71988</price>
+</offer>
+<offer sku="112618585_058695798">
+<name>Hansa BOEB697688 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>307000</price>
+</offer>
+<offer sku="100241877_629483705">
+<name>Hansa BHGI-650103 серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>77900</price>
+</offer>
+<offer sku="122742285_389380761">
+<name>Hansa ZIM635KH белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>173980</price>
+</offer>
+<offer sku="121762724_815222818">
+<name>ASUS VivoBook S14 M5406NA-QD013W 14" / 16 Гб / SSD 512 Гб / Win 11 Home / 90NB1493-M00280</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>444600</price>
+</offer>
+<offer sku="100878506">
+<name>CENTEK CT-1415 черный, серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>60200</price>
+</offer>
+<offer sku="130292533_309620372">
+<name>ASUS VivoBook 15 15.6" / 16 Гб / SSD 512 Гб / Win 11 / X1504VA-BQ1351W 90NB10J1-M01N30</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>318500</price>
+</offer>
+<offer sku="102568962">
+<name>Бассейн каркасный Intex 26702NP, 305x305x76 см</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>63600</price>
+</offer>
+<offer sku="3900285">
+<name>De Luxe DSZF15-LJ/10CE (под мойкой) белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>47205</price>
+</offer>
+<offer sku="100198769">
+<name>Бассейн каркасный Intex Rectangular Frame Pool 28271NP</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>42500</price>
+</offer>
+<offer sku="137593771">
+<name>Посудомоечная машина AVANT W15D4B401R-FE0 серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>143900</price>
+</offer>
+<offer sku="105194405">
+<name>CENTEK CT-5026 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29062</price>
+</offer>
+<offer sku="ex_100188957">
+<name>HyperX Cloud Stinger PS4 HX-HSCSS-BK/EM черный-синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27899</price>
+</offer>
+<offer sku="114834404_730149164">
+<name>Amazfit Active золотистый-розовый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52800</price>
+</offer>
+<offer sku="100820581_764754199">
+<name>Ardesto KSTM-8041 зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27300</price>
+</offer>
+<offer sku="109718903_987129518">
+<name>Roborock Flexi Pro белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>252602</price>
+</offer>
+<offer sku="109555061">
+<name>Аксион M321.04 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>26000</price>
+</offer>
+<offer sku="101348536">
+<name>Портативная колонка SVEN PS-750 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>55000</price>
+</offer>
+<offer sku="100358682">
+<name>Кофеварка CENTEK CT-1164 черный, серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>51000</price>
+</offer>
+<offer sku="1701236_712634927">
+<name>Game Max GMX27C144 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>146313</price>
+</offer>
+<offer sku="117332767_872576619">
+<name>XG Crimson X 165HZ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>81805</price>
+</offer>
+<offer sku="6200379">
+<name>инфракрасный обогреватель Timberk TIR HP1 1800</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>45000</price>
+</offer>
+<offer sku="108274672_553194996">
+<name>GRAND GMFD-500IGNFI серый</name>
+<pickup-options>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>432620</price>
+</offer>
+<offer sku="117907643_159532794">
+<name>Мантоварка HAUSLER HLS- D32STS03 нержавеющая сталь, количество ярусов: 3, 9 л</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>29900</price>
+</offer>
+<offer sku="113413837">
+<name>HAUSLER мантоварка Black Granit HLS-D32GB02 нержавеющая сталь 8.4</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>36790</price>
+</offer>
+<offer sku="101099754">
+<name>Bosch MFQ2600W белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>32142</price>
+</offer>
+<offer sku="108406296">
+<name>аккумуляторная BOSCH Professional GKS 185-LI, 06016C1221</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>98039</price>
+</offer>
+<offer sku="100014417">
+<name>Palit GeForce GTX 1660 Super GP OC NE6166SS18J9-1160A-1 6Gb</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>159990</price>
+</offer>
+<offer sku="102643042">
+<name>70mai Maimo оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18400</price>
+</offer>
+<offer sku="102860902">
+<name>ART-Wave 25EA электронный замок</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>27990</price>
+</offer>
+<offer sku="105194403">
+<name>CENTEK CT-5026 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27990</price>
+</offer>
+<offer sku="106175067">
+<name>Aimoto Ocean V2 розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6299</price>
+</offer>
+<offer sku="106449397">
+<name>GEOZON G-Kids 4G Ultra розовый-розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34817</price>
+</offer>
+<offer sku="12201718">
+<name>Torrent Adrenalin 17 белый-красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>72000</price>
+</offer>
+<offer sku="100200030">
+<name>CENTEK CT-5015 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>11790</price>
+</offer>
+<offer sku="108444895_847691776">
+<name>ART FiT AF-5500 вертикальный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>74990</price>
+</offer>
+<offer sku="107799425_516127">
+<name>Тепловентилятор Oasis SF-20 r белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4480</price>
+</offer>
+<offer sku="101045875_384072214">
+<name>Tefal Express Easy SV6131E0 синий</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>74989</price>
+</offer>
+<offer sku="100296878">
+<name>Bestway 68093 кемпинговая количество мест: 4 зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>67900</price>
+</offer>
+<offer sku="100050405">
+<name>Увлажнитель воздуха CENTEK CT-5105 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17000</price>
+</offer>
+<offer sku="100404545">
+<name>Гриль REDMOND SteakMaster RGM-M816P</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>71500</price>
+</offer>
+<offer sku="10800048">
+<name>REDMOND RMB-M605 серебристый, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25400</price>
+</offer>
+<offer sku="2700197">
+<name>ATLANT ХМ 6021-031 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>204899</price>
+</offer>
+<offer sku="22700078">
+<name>Набор инструментов автомобильный 142 в 1 STELS 14107</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>133200</price>
+</offer>
+<offer sku="103003478">
+<name>Компьютерный стол Ritmix TBL-120, 120x60x70 см, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>131989</price>
+</offer>
+<offer sku="100162482">
+<name>REDMOND RMG-1223-6 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>40095</price>
+</offer>
+<offer sku="2800216">
+<name>Pozis FH-255-1 251 л белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149354</price>
+</offer>
+<offer sku="2800432">
+<name>Бирюса 116 175 л белый</name>
+<pickup-options>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>148894</price>
+</offer>
+<offer sku="133044125_355851671">
+<name>HAUSLER WWKHS10WBIM белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>218989</price>
+</offer>
+<offer sku="5100815">
+<name>Aimoto Start белый-красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>18000</price>
+</offer>
+<offer sku="100820486_772457555">
+<name>Ardesto KSTM-8040 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33400</price>
+</offer>
+<offer sku="110932765_617602478">
+<name>Razer Kaira X for Xbox зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>32990</price>
+</offer>
+<offer sku="103095871_717271049">
+<name>Гриль Tefal GC 740B30</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>79900</price>
+</offer>
+<offer sku="102309025_599305157">
+<name>Гриль Kitfort KT-1657</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>82700</price>
+</offer>
+<offer sku="119886374_062032228">
+<name>Тряпка-накладка DREAME RMP8</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5647</price>
+</offer>
+<offer sku="120464916_650396075">
+<name>Щетка DREAME HSB4</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8060</price>
+</offer>
+<offer sku="121403556_513731079">
+<name>Щетка DREAME HSBB</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10236</price>
+</offer>
+<offer sku="119885311_687777440">
+<name>Фильтр DREAME RHF1</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4718</price>
+</offer>
+<offer sku="122906238_650584017">
+<name>Мешок-пылесборник DREAME RDB8</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3663</price>
+</offer>
+<offer sku="2700257">
+<name>ATLANT ХМ 6023-031 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>209700</price>
+</offer>
+<offer sku="12500248_545250538">
+<name>Шлифмашина угловая Kolner KAG 125/950</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16899</price>
+</offer>
+<offer sku="108365803_875336372">
+<name>ART-Wave лестница антискользящее покрытие STR-506, 872 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>81990</price>
+</offer>
+<offer sku="101456585">
+<name>ART-Wave квадратный HC-9010 бежевый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>157990</price>
+</offer>
+<offer sku="100206560">
+<name>Портативная колонка SVEN PS-600 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>42180</price>
+</offer>
+<offer sku="11600439">
+<name>SVEN SPS-750 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49989</price>
+</offer>
+<offer sku="100444900_189924352">
+<name>Аккумулятор Canon LP-E17</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>36000</price>
+</offer>
+<offer sku="110944483">
+<name>Стол компьютерный, игровой Defender Jupiter RGB, 110x60x75 см, черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>57900</price>
+</offer>
+<offer sku="2702207_746377280">
+<name>ATLANT ХМ-4626-101 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>217985</price>
+</offer>
+<offer sku="102708506_770528701">
+<name>Tefal IXEO+ QT1510E0 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>172890</price>
+</offer>
+<offer sku="101583195_441018006">
+<name>Мойка высокого давления Karcher электрический 120 бар, K3 Power Control 1.676-100.0</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>94990</price>
+</offer>
+<offer sku="101671788">
+<name>Samsung VS15A6031R4/EV фиолетовый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>113400</price>
+</offer>
+<offer sku="101169318_637281410">
+<name>Tefal IT2461E0 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>63800</price>
+</offer>
+<offer sku="100117312">
+<name>ART.FiT TX-6390D черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>41990</price>
+</offer>
+<offer sku="119286617_456697827">
+<name>Шлифмашина угловая СТАВР МШУ-125/1050Э</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>23990</price>
+</offer>
+<offer sku="101152792">
+<name>ORION CY-618 голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8899</price>
+</offer>
+<offer sku="121083117_603458446">
+<name>HAUSLER HLS-BI61BSG10CGFS черный, серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>147990</price>
+</offer>
+<offer sku="100395010">
+<name>Pozis FV NF-117 228 л бежевый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>201000</price>
+</offer>
+<offer sku="111558473">
+<name>Atlant М-7606-100-ND 278 л белый</name>
+<pickup-options>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>242527</price>
+</offer>
+<offer sku="110108832_926511979">
+<name>HAUSLER 67HLB4T1NF черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>77990</price>
+</offer>
+<offer sku="129768794_329709451">
+<name>Blackview W10 43 мм черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14673</price>
+</offer>
+<offer sku="115754145_482498881">
+<name>Blackview AirBuds 4 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19974</price>
+</offer>
+<offer sku="110798808_848885544">
+<name>Samsung LS27C314EAIXCI черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>77168</price>
+</offer>
+<offer sku="101436625">
+<name>Atlant М-7606-102-N 278 л белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>253989</price>
+</offer>
+<offer sku="109127460_548236299">
+<name>LG 32GN50R черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>187096</price>
+</offer>
+<offer sku="112156679_314144913">
+<name>Samsung LS24C314EAIXCI черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64064</price>
+</offer>
+<offer sku="111223237_875401744">
+<name>Razer Wolverine V2 Chroma черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109928</price>
+</offer>
+<offer sku="112226939_125494467">
+<name>Razer Wolverine V2 Chroma белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109928</price>
+</offer>
+<offer sku="103961007_452575393">
+<name>Edifier GX07 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>53872</price>
+</offer>
+<offer sku="110007458_814433435">
+<name>SNOWCAP AC 07 DC W/I белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109990</price>
+</offer>
+<offer sku="631540836">
+<name>Avant RDC-310G01G серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>199999</price>
+</offer>
+<offer sku="594615079">
+<name>AVANT RNC-250G01W белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>165000</price>
+</offer>
+<offer sku="106399221">
+<name>Avant RDC-310G01W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>182900</price>
+</offer>
+<offer sku="111313730">
+<name>Amazfit GTR Mini 43 мм серебристый-черный-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>44999</price>
+</offer>
+<offer sku="108119473_698281163">
+<name>Edifier WH500 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13832</price>
+</offer>
+<offer sku="108220002_143602660">
+<name>Edifier NeoBuds Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39312</price>
+</offer>
+<offer sku="112483207_305715464">
+<name>HONOR Choice Earbuds X5 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18928</price>
+</offer>
+<offer sku="106361518_560457418">
+<name>ART-Wave барбекю, гриль, коптильня DS-34, комбинированный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>84955</price>
+</offer>
+<offer sku="106259240_605170950">
+<name>Toshiba RAS-07U2KHS/RAS-07U2AHS-EE белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>126162</price>
+</offer>
+<offer sku="100271247">
+<name>Torrent Totem 2014 20 серый-оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>53600</price>
+</offer>
+<offer sku="122635948_467707651">
+<name>Игровое кресло COUGAR Armor One V2 F, CGR-A2F, черный, оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>118997</price>
+</offer>
+<offer sku="113188535_623696140">
+<name>Hansa BHI67006 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>185000</price>
+</offer>
+<offer sku="115332966_084373436">
+<name>Atlant ХМ-4619-101 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>188900</price>
+</offer>
+<offer sku="101384716_070061013">
+<name>Samsung WD80T554CBX/LD черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>413455</price>
+</offer>
+<offer sku="100099117_489574336">
+<name>REDMOND сменная панель RAMB-18</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12260</price>
+</offer>
+<offer sku="2702026_826009">
+<name>Atlant ХМ 4624-101 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>200389</price>
+</offer>
+<offer sku="120554885_610293163">
+<name>Xiaomi Robot Vacuum S20+ белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>165953</price>
+</offer>
+<offer sku="103000957_046847339">
+<name>Polaris PVCS 5080 Clean Expert серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>131000</price>
+</offer>
+<offer sku="5301633_853465387">
+<name>Philips BHS 376/00 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38169</price>
+</offer>
+<offer sku="104182416">
+<name>Портативная колонка SVEN PS-680 1 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44613</price>
+</offer>
+<offer sku="110007365_067607286">
+<name>Кондиционер SNOWCAP AC 12 DC W/I белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>144990</price>
+</offer>
+<offer sku="103003489">
+<name>Компьютерный стол Ritmix TBL-140, 140x60x70 см, белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>165900</price>
+</offer>
+<offer sku="121083143_064757658">
+<name>HAUSLER HLS-BI61BLG7CGS черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>141900</price>
+</offer>
+<offer sku="112869927_303768367">
+<name>Samsung WW65AG4S21CELD белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>192000</price>
+</offer>
+<offer sku="117219929_978774519">
+<name>Xiaomi Redmi A3 3 ГБ/64 ГБ синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>46654</price>
+</offer>
+<offer sku="124081621_389071286">
+<name>TROUVER E20 Plus белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>123875</price>
+</offer>
+<offer sku="103302028_884404410">
+<name>TECNO Spark 8P 4 ГБ/128 ГБ синий</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>70000</price>
+</offer>
+<offer sku="110356133_152190094">
+<name>Scarlett SC-VC80C377 голубой, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>65295</price>
+</offer>
+<offer sku="117946746_306278715">
+<name>Samsung DW60A6092BB/WT белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>316198</price>
+</offer>
+<offer sku="105543573">
+<name>Amazfit GTS 2 A1969 золотистый-розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49789</price>
+</offer>
+<offer sku="117201772_427368249">
+<name>HAUSLER HLS-BI60BL750 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>45990</price>
+</offer>
+<offer sku="105318494_943293515">
+<name>LG 27QN600-B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>164837</price>
+</offer>
+<offer sku="108100032_149657">
+<name>Xiaomi Robot Vacuum S10+ BHR6368EU белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>155990</price>
+</offer>
+<offer sku="118127515_693740304">
+<name>Hansa FS1435.4W 142 л белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>85400</price>
+</offer>
+<offer sku="113824744_161514577">
+<name>LG GR-H802HMHL серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>543887</price>
+</offer>
+<offer sku="4201409">
+<name>Klima KSW-H09A4/JR1DI белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>194999</price>
+</offer>
+<offer sku="TEGC-2042101.E1">
+<name>Игровое ThunderX3 TC5-Tiger, черный, оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>113296</price>
+</offer>
+<offer sku="117898853_197112367">
+<name>Gree GWH18ALD-K6DNA2A белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>311418</price>
+</offer>
+<offer sku="118887225_886441229">
+<name>Samsung WW11CGP44CSBLD черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>409989</price>
+</offer>
+<offer sku="103192823_056180308">
+<name>Hansa FS2959.4W 290 л белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP9"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>149000</price>
+</offer>
+<offer sku="117907637_599695157">
+<name>Мантоварка HAUSLER HLS-D28STS03 нержавеющая сталь, количество ярусов: 3, 8 л</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>27990</price>
+</offer>
+<offer sku="108365797_724239627">
+<name>трансформер ART-Wave STR-505, 564см</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>72990</price>
+</offer>
+<offer sku="110007544_503312791">
+<name>SNOWCAP AC 09 DC W/I белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>119799</price>
+</offer>
+<offer sku="110009315_582884775">
+<name>SNOWCAP AC 18 DC W/I белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>208000</price>
+</offer>
+<offer sku="22700098_505881950">
+<name>Набор инструментов автомобильный 119 в 1 STELS 14112</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>134230</price>
+</offer>
+<offer sku="105177156_635947531">
+<name>Atlant ХМ-4621-159-ND черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259979</price>
+</offer>
+<offer sku="115458606">
+<name>Samsung VS20B75ADR5/EV черный, серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>237434</price>
+</offer>
+<offer sku="22700127">
+<name>Набор универсальный 76 в 1 STELS 14104</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>86080</price>
+</offer>
+<offer sku="101279882_302490047">
+<name>REDMOND RF-528 компактный фен 1500 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14987</price>
+</offer>
+<offer sku="103626606_264032533">
+<name>Deerma DEM-CF15W фен 1600 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13525</price>
+</offer>
+<offer sku="115682604_586503320">
+<name>Remington D5305 фен 2200 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>40896</price>
+</offer>
+<offer sku="114218297_143072836">
+<name>Remington CB7480 расческа-выпрямитель</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49078</price>
+</offer>
+<offer sku="113374028_014519949">
+<name>REDMOND RF-539 фен 2200 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21805</price>
+</offer>
+<offer sku="102305432_299970">
+<name>Samsung RB37A5200SA\WT серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>288000</price>
+</offer>
+<offer sku="5301318_650399459">
+<name>Scarlett SC074 фен 1400 W</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7896</price>
+</offer>
+<offer sku="5300605_647485391">
+<name>Scarlett SC-HD70IT10 фен 1400 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7080</price>
+</offer>
+<offer sku="115298083_461483066">
+<name>Rebus RW FLSM-655DS серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124500</price>
+</offer>
+<offer sku="108302247_351241351">
+<name>Rowenta CV6130F0 фен 1800 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>54532</price>
+</offer>
+<offer sku="118055678_826399097">
+<name>Oclean звуковая X Pro Digital щетина средняя</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>36939</price>
+</offer>
+<offer sku="116986428_473755013">
+<name>HAUSLER HLS-R4BLGTG1 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>83987</price>
+</offer>
+<offer sku="132567671_851649493">
+<name>Rebus Rebus RBGb46052 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>56997</price>
+</offer>
+<offer sku="112986882_367108270">
+<name>Xiaomi Soocas Aura PT1</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25693</price>
+</offer>
+<offer sku="113690022_141014420">
+<name>Xiaomi звуковая Soocas Neos T03 щетина средняя</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>45737</price>
+</offer>
+<offer sku="116729274_275832735">
+<name>Kitfort КТ-9142 черный, белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35310</price>
+</offer>
+<offer sku="118200628_352405678">
+<name>Oclean P2S5 B02 стандартная 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5725</price>
+</offer>
+<offer sku="122150282_710717326">
+<name>AVANT WM-FAF60W-G серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>134600</price>
+</offer>
+<offer sku="118166051_804233087">
+<name>Oclean N10 для ирригатора 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5615</price>
+</offer>
+<offer sku="118165920_866823258">
+<name>Oclean N10 для ирригатора 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5247</price>
+</offer>
+<offer sku="118230415_550312366">
+<name>Oclean Plaque Control Brush Head P1C1 W06 стандартная 6 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14283</price>
+</offer>
+<offer sku="118230376_997998451">
+<name>Oclean Plaque Control-Brush Head P1C8 стандартная 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7549</price>
+</offer>
+<offer sku="118230361_854366421">
+<name>Oclean футляр для зубной щетки пластик 1 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6749</price>
+</offer>
+<offer sku="118870429_312642608">
+<name>Soocas C01 ультразвуковая 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3481</price>
+</offer>
+<offer sku="108118715_817293044">
+<name>Очиститель воздуха Xiaomi Smart Air Purifier Elite BHR6359EU/Y-600 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>209578</price>
+</offer>
+<offer sku="108632920_160325960">
+<name>Игровое кресло COUGAR 3MEPENXB.6433, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124292</price>
+</offer>
+<offer sku="110298086_524755882">
+<name>Очиститель воздуха Xiaomi Smartmi Air Purifier E1 ZMKQJHQE11 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>62714</price>
+</offer>
+<offer sku="101668370_119391673">
+<name>Midea MDRB424FGF34I бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>302129</price>
+</offer>
+<offer sku="106635053_155659343">
+<name>CENTEK CT-3002 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7664</price>
+</offer>
+<offer sku="114042126_186428344">
+<name> COUGAR NXSYS AERO, черный, оранжевый</name>
+<pickup-options>
+<pickup-option id="PP4"/>
+<pickup-option id="PP1"/>
+<pickup-option id="PP8"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>228847</price>
+</offer>
+<offer sku="117097999_903216813">
+<name>Philips QP-225/50 сменные лезвия</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>23169</price>
+</offer>
+<offer sku="114042049_076062718">
+<name> COUGAR ARMOR EVO, черный, оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>230275</price>
+</offer>
+<offer sku="106445782_499002006">
+<name>Фильтр Xiaomi M16R-FLP-GL</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29582</price>
+</offer>
+<offer sku="100780055_179029672">
+<name>MAUNFELD EVCE.594-BK черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109990</price>
+</offer>
+<offer sku="102937564_868512337">
+<name>Увлажнитель воздуха Deerma DEM-F323W черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19078</price>
+</offer>
+<offer sku="108118476_696480593">
+<name>Увлажнитель воздуха SmartMi Humidifier Rainforest CJJSQ06ZM белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>91379</price>
+</offer>
+<offer sku="100411588">
+<name>Электрочайник CENTEK CT-0020 бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9345</price>
+</offer>
+<offer sku="116986424_114403133">
+<name>HAUSLER HLS-S4BLGT2 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>79979</price>
+</offer>
+<offer sku="124097560_969312599">
+<name>Huawei Watch GT 5 41 мм золотистый-белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>136014</price>
+</offer>
+<offer sku="108141112_576071036">
+<name>70mai Maimo WT2105 черный-оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19603</price>
+</offer>
+<offer sku="100822874">
+<name>Вентилятор Ardesto FN-R1608CB черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP9"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13900</price>
+</offer>
+<offer sku="5301814">
+<name>REDMOND RCI-2326 мультистайлер</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10500</price>
+</offer>
+<offer sku="15400127">
+<name>Бассейн каркасный Bestway Steel Pro Frame 56424, 400x211x81 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>85680</price>
+</offer>
+<offer sku="102786693">
+<name>OLMIO Superb 15W черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11000</price>
+</offer>
+<offer sku="113326099_564216">
+<name>Портативная колонка SVEN PS-770 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>64900</price>
+</offer>
+<offer sku="101878546_108717">
+<name>Портативная колонка Sony SRSXB13L.RU2 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24300</price>
+</offer>
+<offer sku="109379696_312499">
+<name>CENTEK CT-1910 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>131900</price>
+</offer>
+<offer sku="114130424_720996479">
+<name>Аэрогриль Russell Hobbs 26500-56</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>42246</price>
+</offer>
+<offer sku="115178468_838588841">
+<name>POCKET BOOK PB629-M-CIS серый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>87249</price>
+</offer>
+<offer sku="108644797_335193131">
+<name>CENTEK CT-5006 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10880</price>
+</offer>
+<offer sku="3701470_992015037">
+<name>Kolner KVC 1700 S 3790125 желтый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>77990</price>
+</offer>
+<offer sku="2702116">
+<name>Atlant XT-1000-000 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>284990</price>
+</offer>
+<offer sku="119861757_394740654">
+<name>AVANT WMW-0324-6-L21 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>114153</price>
+</offer>
+<offer sku="112131599_206189378">
+<name>Hansa BOEI684633 черный, стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>185791</price>
+</offer>
+<offer sku="116696297_980927025">
+<name>Karcher VC 4 Cordless MyHome белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>139990</price>
+</offer>
+<offer sku="114691575_371035415">
+<name>Huawei Watch GT 4 + подарок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>111067</price>
+</offer>
+<offer sku="116620882_696851876">
+<name>Kieslect Lady Watch Lora 2 розовый-розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31351</price>
+</offer>
+<offer sku="122622081_010900517">
+<name>GRANDLUX HD 455 RWENE стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>236900</price>
+</offer>
+<offer sku="121575097_071551740">
+<name>DREAME Z30 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>299980</price>
+</offer>
+<offer sku="115410517_274664801">
+<name>Rebus RW FLSM-655DW белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>115300</price>
+</offer>
+<offer sku="109262893_858503956">
+<name>ZARGET ZRB310DS1WM белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>208990</price>
+</offer>
+<offer sku="117421068_269460670">
+<name>TECNO SPARK 20C 8 ГБ/128 ГБ золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64680</price>
+</offer>
+<offer sku="100366745">
+<name>Бирюса SBS 587 GG бежевый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>554990</price>
+</offer>
+<offer sku="138386525_872341787">
+<name>PLATINIUM Premium PAU-18INVER + монтажный комплект белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>239899</price>
+</offer>
+<offer sku="119282358_084447911">
+<name>TECNO POVA 6 12 ГБ/256 ГБ серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>131208</price>
+</offer>
+<offer sku="116105001_733253661">
+<name>HONOR Magic V2 16 ГБ/512 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>1078000</price>
+</offer>
+<offer sku="116620090_074927191">
+<name>TECNO SPARK 20 Pro+ 8 ГБ/256 ГБ белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>115500</price>
+</offer>
+<offer sku="115816259_842678687">
+<name>TECNO SPARK 20C 8 ГБ/128 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64680</price>
+</offer>
+<offer sku="119282333_776243292">
+<name>TECNO POVA 6 8 ГБ/256 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>121660</price>
+</offer>
+<offer sku="119282223_908673453">
+<name>TECNO POVA 6 12 ГБ/256 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>131208</price>
+</offer>
+<offer sku="116620058_190872422">
+<name>TECNO SPARK 20 Pro+ 8 ГБ/256 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>115500</price>
+</offer>
+<offer sku="112608401_934796977">
+<name>HONOR X5 Plus 4 ГБ/64 ГБ голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>67144</price>
+</offer>
+<offer sku="115049871_746779637">
+<name>TECNO SPARK 20C 4 ГБ/128 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>55440</price>
+</offer>
+<offer sku="117421034_753153281">
+<name>TECNO SPARK 20C 4 ГБ/128 ГБ золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>55440</price>
+</offer>
+<offer sku="119282296_815901733">
+<name>TECNO POVA 6 8 ГБ/256 ГБ серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>121660</price>
+</offer>
+<offer sku="121410541_612351747">
+<name>GRAND GRBF-339SSNFI стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>197000</price>
+</offer>
+<offer sku="124480513_325610614">
+<name>TCL 55C655 140 см черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>254500</price>
+</offer>
+<offer sku="117684822_077509092">
+<name>Xiaomi 14 Ultra 16 ГБ/512 ГБ белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>646800</price>
+</offer>
+<offer sku="119645376_337400581">
+<name>Xiaomi Redmi 13 6 ГБ/128 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>73304</price>
+</offer>
+<offer sku="124040864_148402490">
+<name>Huawei Watch GT 5 41 мм серебристый-голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>136014</price>
+</offer>
+<offer sku="102178377_177899933">
+<name>CENTEK CT-3000 белый-синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4425</price>
+</offer>
+<offer sku="128015696_310598741">
+<name>HAUSLER Skyline Turbo Jet HLS-20TT5SC8/BLUM синий</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38897</price>
+</offer>
+<offer sku="112148916_427054761">
+<name>Hansa FCCW582033 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>258800</price>
+</offer>
+<offer sku="112047897_995001878">
+<name>Hansa FCMW68123 белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>239000</price>
+</offer>
+<offer sku="124040890_737388548">
+<name>Huawei Watch GT 5 41 мм серый-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124514</price>
+</offer>
+<offer sku="115188820_670987227">
+<name>MAUNFELD AEOC6040B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>179790</price>
+</offer>
+<offer sku="100017320">
+<name>CENTEK CT-1327 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17300</price>
+</offer>
+<offer sku="100977090_464324642">
+<name>Deerma Rechargeable Lint Remover MQ600</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9294</price>
+</offer>
+<offer sku="2700209">
+<name>Atlant ХМ-6025-031 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>223505</price>
+</offer>
+<offer sku="100200008">
+<name>CENTEK CT-1532-46 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49990</price>
+</offer>
+<offer sku="100430587">
+<name>Transcend 830S TS2TMTS830S 2Tb</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>117982</price>
+</offer>
+<offer sku="102190463_299953834">
+<name>Часы кварцевые CENTEK СТ-7105, пластик</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4099</price>
+</offer>
+<offer sku="109998841_614680346">
+<name>Circle Joy штопор Mini Electric Wine Opener электрический</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8614</price>
+</offer>
+<offer sku="7300005">
+<name>Transcend TS2TSJ25A3K 2000 ГБ</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>52600</price>
+</offer>
+<offer sku="103868183_196334755">
+<name>Xiaomi штопор Circle Joy Electric SET 4/1 SDI Limited Edition электрический</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16171</price>
+</offer>
+<offer sku="108160673_007095439">
+<name>Штопор Circle Joy Beer Wine электрический</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18244</price>
+</offer>
+<offer sku="115197954_126666169">
+<name>REDMOND RKA-PM2, металл, пластик</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7918</price>
+</offer>
+<offer sku="117951614_993923469">
+<name>Blesk BL-121ZSS серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>74000</price>
+</offer>
+<offer sku="121083099_908155500">
+<name>HAUSLER HLS-BI61BLG10CGFS черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>168989</price>
+</offer>
+<offer sku="120577538_920606560">
+<name>Kitfort КТ-6269 белый, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>60123</price>
+</offer>
+<offer sku="3700689_559783">
+<name>Samsung VC21K5150HP/EV красный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>89895</price>
+</offer>
+<offer sku="101666851_970600945">
+<name>Huo Hou набор ножей Fire Waiting Steel Knife, лезвие: нержавеющая сталь</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49538</price>
+</offer>
+<offer sku="100203661_808944669">
+<name>Deerma Vacuum Cleaner TJ200 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>56059</price>
+</offer>
+<offer sku="107645814_156652896">
+<name>Kitfort KT-5134 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49989</price>
+</offer>
+<offer sku="106651081_774072153">
+<name>Deerma VC55 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64567</price>
+</offer>
+<offer sku="105575796_606907668">
+<name>Roborock S7 MaxV Ultra черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>450853</price>
+</offer>
+<offer sku="112027044_888110550">
+<name>DREAME H12 Dual черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>418169</price>
+</offer>
+<offer sku="115292018_587988255">
+<name>DREAME Z10 Station серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>378965</price>
+</offer>
+<offer sku="100225309_114778380">
+<name>Deerma Steam Cleaner DEM-ZQ610 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>47033</price>
+</offer>
+<offer sku="116700991_937048371">
+<name>TROUVER J10 черный, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52260</price>
+</offer>
+<offer sku="101152908_781578298">
+<name>Scarlett SC-SI30K57 фиолетовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>15552</price>
+</offer>
+<offer sku="36000087_924489237">
+<name>Tefal чайник C7921024 2.5 л, нержавеющая сталь</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>22056</price>
+</offer>
+<offer sku="110252210_539003203">
+<name>Midea MDRB424FGF01O белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>204900</price>
+</offer>
+<offer sku="109171269_047410637">
+<name>REDMOND RI-C293 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25896</price>
+</offer>
+<offer sku="115467560_118546293">
+<name>Russell Hobbs 26481-56 красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18544</price>
+</offer>
+<offer sku="116191922_647267727">
+<name>Фильтр Xiaomi B106GL-LW</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5728</price>
+</offer>
+<offer sku="115467193_784624379">
+<name>Russell Hobbs 23986-56 золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31214</price>
+</offer>
+<offer sku="106481999_841064789">
+<name>Аэрогриль Kitfort КТ-2231</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>104987</price>
+</offer>
+<offer sku="115736661_078229816">
+<name>Щетка Xiaomi B106GL-ZX</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4455</price>
+</offer>
+<offer sku="101176013_760678165">
+<name>Scarlett SC-GS135S04 синий, белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16976</price>
+</offer>
+<offer sku="119886211_414215980">
+<name>Набор аксессуаров RAK28</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14049</price>
+</offer>
+<offer sku="114151739_802497434">
+<name>Russell Hobbs 28370-56 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>81805</price>
+</offer>
+<offer sku="115736600_277887814">
+<name>Фильтр Xiaomi B112-CH</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4137</price>
+</offer>
+<offer sku="114848953_262130074">
+<name>Щетка Xiaomi B112-ZS</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4296</price>
+</offer>
+<offer sku="106930857_681323616">
+<name>REDMOND RHB-2951 белый, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35272</price>
+</offer>
+<offer sku="119186950_564431418">
+<name>Вафельница Kitfort КТ-1691 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24805</price>
+</offer>
+<offer sku="106651026_889553780">
+<name>Kitfort КТ-1523-2 белый-зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39192</price>
+</offer>
+<offer sku="112101671_979533937">
+<name>Tefal Pure Pop DT2024E1 зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>40896</price>
+</offer>
+<offer sku="788909019">
+<name>AVANT MO-20P700M-W01B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25990</price>
+</offer>
+<offer sku="115184639_753527837">
+<name>REDMOND коврик Ecoglass MC4, стекловолокно</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6421</price>
+</offer>
+<offer sku="58300014_147552972">
+<name>Kitfort КТ-1910 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>261805</price>
+</offer>
+<offer sku="10800217_167354890">
+<name>REDMOND RMB-M605 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27260</price>
+</offer>
+<offer sku="105611301_683781638">
+<name>Kitfort KT-1348-3 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>128850</price>
+</offer>
+<offer sku="12600069_365589639">
+<name>Гриль Tefal GC306012</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>102260</price>
+</offer>
+<offer sku="113625682_209084937">
+<name>Kitfort КТ-2050-3 бирюзовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24264</price>
+</offer>
+<offer sku="6302183_230812304">
+<name>Электрочайник Tefal KO 450132 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>51021</price>
+</offer>
+<offer sku="113601852_923233541">
+<name>REDMOND FM601 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>66654</price>
+</offer>
+<offer sku="115681791_124031590">
+<name>Remington машинка для стрижки HC5155</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38987</price>
+</offer>
+<offer sku="114216302_169777573">
+<name>Remington машинка для стрижки HC4000</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>37487</price>
+</offer>
+<offer sku="113960319_404000994">
+<name>Xiaomi Compact Hair Dryer H101 фен 1600 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10570</price>
+</offer>
+<offer sku="116218690_983234028">
+<name>Rebus RW FLWM-855DW серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>151000</price>
+</offer>
+<offer sku="114136670_940109611">
+<name>Remington CI6X10 плойка</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>40896</price>
+</offer>
+<offer sku="115681494_981750641">
+<name>Remington машинка для бороды и усов, для стрижки HC5000</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>80987</price>
+</offer>
+<offer sku="100505505_202772290">
+<name>Remington CI6525 плойка 25 мм</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>40896</price>
+</offer>
+<offer sku="104985692_248939705">
+<name>Enchen триммер для стрижки YOYO</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6313</price>
+</offer>
+<offer sku="100666510_825695244">
+<name>Remington триммер для бороды и усов MB320C</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33965</price>
+</offer>
+<offer sku="123918025_405126702">
+<name>AVANT MO-20P700M-W01B черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>26500</price>
+</offer>
+<offer sku="108257123_642090460">
+<name>Xiaomi Mijia S101 роторная от аккумулятора</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11525</price>
+</offer>
+<offer sku="115681434_502258551">
+<name>Remington триммер для бороды и усов MB4128</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>41987</price>
+</offer>
+<offer sku="115681426_136968425">
+<name>Remington машинка для стрижки, для бороды и усов MB7000</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>77987</price>
+</offer>
+<offer sku="115986476_891036498">
+<name>Infinix HOT 40 8 ГБ/256 ГБ голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>75000</price>
+</offer>
+<offer sku="114009189_118057760">
+<name>CENTEK CT-2150 роторная от аккумулятора</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12740</price>
+</offer>
+<offer sku="2700128">
+<name>ATLANT ХМ 6024-031 белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>203981</price>
+</offer>
+<offer sku="100723976_465812916">
+<name>REDMOND RMG-1239 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>59987</price>
+</offer>
+<offer sku="105665241_053347741">
+<name>Очиститель воздуха Xiaomi Smart Air Purifier 4 Compact белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>50662</price>
+</offer>
+<offer sku="117421538_069018476">
+<name>Электрочайник Kitfort КТ-625-5 черный, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14056</price>
+</offer>
+<offer sku="101637648_747001417">
+<name>Аэрогриль Deerma Electric Oven Air Fryer KZ100</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38931</price>
+</offer>
+<offer sku="113993387_291607574">
+<name>CENTEK CT-1530-36 Promo черный, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44762</price>
+</offer>
+<offer sku="103486246_960766927">
+<name>Электрочайник Scarlett SC-EK27G90 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8978</price>
+</offer>
+<offer sku="101385196_237853082">
+<name>Электрочайник Kitfort КТ-654-1 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16400</price>
+</offer>
+<offer sku="102831949_437562679">
+<name>Электрочайник REDMOND RK-G185 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21137</price>
+</offer>
+<offer sku="113734505_765726245">
+<name>Электрочайник Kitfort КТ-6128 черный, серебристый, прозрачный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18332</price>
+</offer>
+<offer sku="101256139_679117429">
+<name>Электрочайник REDMOND RK-M155 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39987</price>
+</offer>
+<offer sku="103105629_082225731">
+<name>Электрочайник CENTEK CT-0063 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17104</price>
+</offer>
+<offer sku="100590342_205729562">
+<name>Scarlett электронные SC-BS33E085 жемчуг до 150 кг</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8102</price>
+</offer>
+<offer sku="113626382_167441990">
+<name>Кофеварка Kitfort КТ-7130-1 желтый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9532</price>
+</offer>
+<offer sku="115821618_161553484">
+<name>REDMOND HS1714 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44987</price>
+</offer>
+<offer sku="107879514_023438657">
+<name>Kitfort машинка универсальное КТ-3130-2</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13760</price>
+</offer>
+<offer sku="107843396_202242716">
+<name>Kitfort KT-3234 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13056</price>
+</offer>
+<offer sku="107879720_779687937">
+<name>Kitfort машинка универсальное Kitfort КТ-3130-3</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13760</price>
+</offer>
+<offer sku="102994866">
+<name>AVANT WM-FAF60W-G + Avant MO-20P700M-W01S серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>176699</price>
+</offer>
+<offer sku="115886291_006073054">
+<name>REDMOND HS1714 утюжок 32 мм</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44987</price>
+</offer>
+<offer sku="110621016_435234655">
+<name>Deerma Dem-nu06 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11310</price>
+</offer>
+<offer sku="106502993_924328038">
+<name>Электрочайник REDMOND RK-M1561 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>30332</price>
+</offer>
+<offer sku="100113476_390345197">
+<name>Scarlett SC-920 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3289</price>
+</offer>
+<offer sku="123104289_271882344">
+<name>Xiaomi Truclean W20 Wet Dry Vacuum EU (B305GL) белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>118860</price>
+</offer>
+<offer sku="120489879_162589303">
+<name>Электрогриль Xiaomi Smart Air Fryer 4.5L MAF14</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>66805</price>
+</offer>
+<offer sku="112285234">
+<name>Rondell набор столовых приборов RD 245 24 шт, нержавеющая сталь</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>33800</price>
+</offer>
+<offer sku="123879372_396267299">
+<name>Xiaomi Redmi Watch 5 Active 51 мм черный-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>22487</price>
+</offer>
+<offer sku="100080031">
+<name>LG F4V5VS0W белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>239299</price>
+</offer>
+<offer sku="101064681">
+<name>Samsung VCC8874H35/XEV черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>86800</price>
+</offer>
+<offer sku="4804177_111627262">
+<name>Xiaomi Mi Earphones Basic черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3696</price>
+</offer>
+<offer sku="123013015_035160669">
+<name>Ritmix RH-825BTH белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>2955</price>
+</offer>
+<offer sku="124502386_312492326">
+<name>Xiaomi Buds 5 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64078</price>
+</offer>
+<offer sku="121872264_002984501">
+<name>Ritmix RH-825BTH черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>3003</price>
+</offer>
+<offer sku="117964813_110563162">
+<name>Edifier X2S белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8591</price>
+</offer>
+<offer sku="124502562_049251064">
+<name>Xiaomi Watch 2 46 мм светло-серый-бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>111067</price>
+</offer>
+<offer sku="22700075">
+<name>Набор инструментов автомобильный 29 в 1 STELS 14100</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19700</price>
+</offer>
+<offer sku="128494566_055493954">
+<name>Amazfit T-Rex 3 49 мм черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>150000</price>
+</offer>
+<offer sku="22700074">
+<name>Набор инструментов автомобильный 60 в 1 STELS 14103</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>45800</price>
+</offer>
+<offer sku="101288499">
+<name>CENTEK CT-5010 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31000</price>
+</offer>
+<offer sku="100327775">
+<name>ARG LD40A6500 102 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>141200</price>
+</offer>
+<offer sku="104295882">
+<name>Плащ WILDMAN 82-002 зеленый 34-36</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>599</price>
+</offer>
+<offer sku="110147190">
+<name>ALMACOM WD-CFO-50BN серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>66000</price>
+</offer>
+<offer sku="101050107">
+<name>Рюкзак Bestway 68076 полиэстер синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13299</price>
+</offer>
+<offer sku="102752210">
+<name>Конвектор Willmark CH-1000Y/W белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>20990</price>
+</offer>
+<offer sku="100362938">
+<name>CENTEK CT-5003 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5489</price>
+</offer>
+<offer sku="103662720">
+<name>ORION OVC-307CR красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18697</price>
+</offer>
+<offer sku="100536282">
+<name>масляный радиатор CENTEK CT-6201</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>24899</price>
+</offer>
+<offer sku="108481389">
+<name>POCKET BOOK для POCKET BOOK 740 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>15000</price>
+</offer>
+<offer sku="100696356">
+<name>Scarlett SC-MG45M21 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>26800</price>
+</offer>
+<offer sku="101245804">
+<name>Bestway Cultiva 68046 BW зеленый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39500</price>
+</offer>
+<offer sku="101439246">
+<name>CENTEK CT-5021 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14206</price>
+</offer>
+<offer sku="22700080">
+<name>Набор инструментов автомобильный 98 в 1 STELS 14111</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109540</price>
+</offer>
+<offer sku="101559615">
+<name>Диспенсер Kitfort КТ-2046</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13236</price>
+</offer>
+<offer sku="103543418">
+<name>Acer TravelMate P2 14" / 4 Гб / SSD 256 Гб / Без ОС / TMP214-53 / NX.VPNER.00A</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259900</price>
+</offer>
+<offer sku="101560420">
+<name>Бассейн каркасный Bestway Steel Pro Max 56488 BW, 457x107 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>199990</price>
+</offer>
+<offer sku="9101258">
+<name>Kingston HyperX HX-MC003B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27989</price>
+</offer>
+<offer sku="101522609">
+<name>Kitfort KT-1916 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>89300</price>
+</offer>
+<offer sku="101213386">
+<name>CENTEK CT-1309 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19900</price>
+</offer>
+<offer sku="103511205">
+<name>Scarlett SC-HB42F82 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>15587</price>
+</offer>
+<offer sku="101288683">
+<name>CENTEK CT-5015 серый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10200</price>
+</offer>
+<offer sku="100362314">
+<name>CENTEK CT-5040 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3600</price>
+</offer>
+<offer sku="5400119">
+<name>Источник бесперебойного питания SVC PT-6K-LCD</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>440202</price>
+</offer>
+<offer sku="108511204">
+<name>DELL Vostro 3525 15.6" / 8 Гб / SSD 256 Гб / Ubuntu / N1006VNB3525EMEA01_UBU</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259990</price>
+</offer>
+<offer sku="113483377_621105">
+<name>Тепловентилятор Oasis SP-20 R белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6700</price>
+</offer>
+<offer sku="113581778_491589">
+<name>Масляный радиатор Oasis Pro OS-25 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>22800</price>
+</offer>
+<offer sku="6200808_387459">
+<name>Oasis TPK-20 красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9690</price>
+</offer>
+<offer sku="105111954_842252174">
+<name>Wahl машинка для стрижки Elite Pro</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>37000</price>
+</offer>
+<offer sku="100536305">
+<name>масляный радиатор CENTEK CT-6202</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29750</price>
+</offer>
+<offer sku="2900515">
+<name>AVA AVM-20GS серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35990</price>
+</offer>
+<offer sku="22700079">
+<name>Набор инструментов автомобильный 88 в 1 STELS 14109</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>76560</price>
+</offer>
+<offer sku="101153769">
+<name>Бассейн каркасный Bestway Power Steel 56977, 549x122 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>470300</price>
+</offer>
+<offer sku="108921160_968145">
+<name>HAUSLER ROBOCHEF HSL-RB-15007 серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31490</price>
+</offer>
+<offer sku="100017334">
+<name>CENTEK CT-1336 белый, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9946</price>
+</offer>
+<offer sku="100651470">
+<name>ARG WH-100</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>89899</price>
+</offer>
+<offer sku="100058719_867042">
+<name>REDMOND RV-UR380 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>78000</price>
+</offer>
+<offer sku="109574122_488514121">
+<name>Kieslect Lady Calling Watch Lora фиолетовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11200</price>
+</offer>
+<offer sku="101439201">
+<name>CENTEK CT-5004 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19900</price>
+</offer>
+<offer sku="103662937">
+<name>Lenovo V14 G1 IML 14" / 4 Гб / HDD 1000 Гб / DOS / 82NA002BRU</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>236900</price>
+</offer>
+<offer sku="4201403">
+<name>Klima KSW-H09A4/JR1 белый + медная инсталляция</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>139800</price>
+</offer>
+<offer sku="100249198_458713">
+<name>Willmark VC-1865CY серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31990</price>
+</offer>
+<offer sku="6801329">
+<name>Transcend TS512GMTE220S SSD 512GB</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>47000</price>
+</offer>
+<offer sku="105906087">
+<name>Lenovo V15 G3 IAP 15.6" / 8 Гб / SSD 512 Гб / Без ОС / 82TT001KRU</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>369993</price>
+</offer>
+<offer sku="ex_103054596">
+<name>OLMIO MagCharge QI 15W черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11800</price>
+</offer>
+<offer sku="100633477_238483329">
+<name>Oasis TPK-30R красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9386</price>
+</offer>
+<offer sku="110808718">
+<name>МФУ HP DeskJet Plus Ink Advantage 6075 5SE22C</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>69200</price>
+</offer>
+<offer sku="107288238">
+<name>REDMOND RHB-2984B черный, серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27998</price>
+</offer>
+<offer sku="113974685_902376698">
+<name>Xiaomi Watch 2 Pro 46 мм черный-черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>105716</price>
+</offer>
+<offer sku="ex_103053667">
+<name>OLMIO MagCharge QI 15W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12200</price>
+</offer>
+<offer sku="188870">
+<name>Premier PRM-315BFSF/W белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>229900</price>
+</offer>
+<offer sku="100132269">
+<name>LG B24TS белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>443901</price>
+</offer>
+<offer sku="101907607">
+<name>GIGABYTE GeForce RTX3080TI VISION OC 12G GV-N308TVISION OC-12GD 12Gb</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>690000</price>
+</offer>
+<offer sku="115274807_717798333">
+<name>Пылесос DREAME V12 (VVT1) серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>166100</price>
+</offer>
+<offer sku="119286612_009449777">
+<name>Kolner гайковерт 888333133</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34100</price>
+</offer>
+<offer sku="113242687_986447198">
+<name>Acer Aspire A515-58M-532W 15.6" / 8 Гб / SSD 512 Гб / DOS / NX.KHEER.002</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>285996</price>
+</offer>
+<offer sku="4804729">
+<name>Ritmix RH-802BTH TWS белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6015</price>
+</offer>
+<offer sku="100029299_400780">
+<name>Электрочайник Ardesto EKL-1617BN коричневый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9999</price>
+</offer>
+<offer sku="100763925">
+<name>CENTEK CT-2355 красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7291</price>
+</offer>
+<offer sku="109736419_403948943">
+<name>Lenovo Legion 7 16" / 16 Гб / SSD 1000 Гб / DOS / 16ARHA7 / 82UH005QRK</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>1108887</price>
+</offer>
+<offer sku="124040886_086614898">
+<name>Huawei Watch GT 5 46 мм серебристый-коричневый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>136014</price>
+</offer>
+<offer sku="112913877_700920">
+<name>Конвектор Ardesto CHB-2000MWPD белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>15488</price>
+</offer>
+<offer sku="100166366">
+<name>Бассейн каркасный Intex 28270NP</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>38900</price>
+</offer>
+<offer sku="110201917">
+<name>Холодильник Candy CCRN 6200G золотистый</name>
+<pickup-options>
+<pickup-option id="0012"/>
+</pickup-options>
+<price>279989</price>
+</offer>
+<offer sku="101582961">
+<name>Vestfrost VFT 8143DDC бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>166993</price>
+</offer>
+<offer sku="100123930">
+<name>Водонагреватель Ariston BLU1 R ABS 100 V</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>114890</price>
+</offer>
+<offer sku="110221745">
+<name>Холодильник Candy CCRN 6200C серебристый</name>
+<pickup-options>
+<pickup-option id="0012"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>240000</price>
+</offer>
+<offer sku="3300399">
+<name>Скороварка/мультиварка REDMOND RMC-PM504 серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>112486</price>
+</offer>
+<offer sku="7300132_723008588">
+<name>Transcend TS1TSJ25A3K 1000 ГБ</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>39805</price>
+</offer>
+<offer sku="107575433_828590">
+<name>SteelSeries Aerox 5 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34889</price>
+</offer>
+<offer sku="122150313_704099150">
+<name>AVANT WM-FAF60W-W белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>126900</price>
+</offer>
+<offer sku="100161385">
+<name>Bestway Pavillo Arctic Hiking 68081 треккинговый 45 л серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39990</price>
+</offer>
+<offer sku="100688164">
+<name>Портативная колонка SVEN PS-115 красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11989</price>
+</offer>
+<offer sku="102645655">
+<name>SNOWCAP SBS NF 570 BG черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>369989</price>
+</offer>
+<offer sku="103789283">
+<name>Karcher WD 6 P S желтый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>164990</price>
+</offer>
+<offer sku="104478376_756220992">
+<name>Karcher WD 3 P S V-17/4/20 желтый, серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>89990</price>
+</offer>
+<offer sku="100925659">
+<name>SVEN PS-550 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>36283</price>
+</offer>
+<offer sku="105544292_633922442">
+<name>REDMOND RCI-2317 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>20441</price>
+</offer>
+<offer sku="112745690_403142208">
+<name>Hansa Boeis696677 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>230540</price>
+</offer>
+<offer sku="103003487">
+<name>Компьютерный стол Ritmix TBL-120, 120x60x70 см, белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>132000</price>
+</offer>
+<offer sku="106599652_507292">
+<name>Bosch KDN76XL30U серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>555000</price>
+</offer>
+<offer sku="7300413">
+<name>Transcend TS2TSJ25M3G 2000 ГБ</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>57000</price>
+</offer>
+<offer sku="3900971">
+<name>Ariston BLU1 R ABS 80V Slim</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>118900</price>
+</offer>
+<offer sku="106264855">
+<name>Портативная колонка 2E 2E-BSSXTWTQ голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34989</price>
+</offer>
+<offer sku="114136001_884798621">
+<name>ONYX BOOX для Note Air 3 C черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>24021</price>
+</offer>
+<offer sku="113075838_501956202">
+<name>Razer RC21-01140200-W3M1</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13134</price>
+</offer>
+<offer sku="102383869">
+<name>Бирюса 820NF белый</name>
+<pickup-options>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>199990</price>
+</offer>
+<offer sku="114691867_865603780">
+<name>Huawei Watch GT 4 + подарок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>111067</price>
+</offer>
+<offer sku="124275314_629768475">
+<name>Huawei Watch GT 5 46 мм черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124514</price>
+</offer>
+<offer sku="4200437">
+<name>ALMACOM ACH-09L белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>262900</price>
+</offer>
+<offer sku="103765842">
+<name>Palit RTX3070 GAMEROCK 8G NE63070019P2-1040G 8GB</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>359990</price>
+</offer>
+<offer sku="108921151_556464">
+<name>HAUSLER Schafer HSL-SH-15001 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>30864</price>
+</offer>
+<offer sku="101098659">
+<name>QCY T10 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14500</price>
+</offer>
+<offer sku="102860760">
+<name>ART-Wave 20EA взломостойкий электронный замок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>21490</price>
+</offer>
+<offer sku="113811929_899883">
+<name>Samsung UE65CU8500UXCE 165 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>412800</price>
+</offer>
+<offer sku="101439394_099958289">
+<name>CENTEK CT-5015 синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11400</price>
+</offer>
+<offer sku="106366788_107576933">
+<name>TECNO Spark 9 Pro 4 ГБ/128 ГБ синий</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>75000</price>
+</offer>
+<offer sku="100811732_997412">
+<name>SVEN PS-520 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>41789</price>
+</offer>
+<offer sku="115681785_050625018">
+<name>Remington машинка для окантовки HC450</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>71441</price>
+</offer>
+<offer sku="ex_103116444">
+<name>HyperX Cloud II Wireless HHSC2X-BA-RD/G красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>70800</price>
+</offer>
+<offer sku="106032551_570733836">
+<name>CENTEK CT-5003 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6313</price>
+</offer>
+<offer sku="6301296_081621488">
+<name>Электрочайник REDMOND RK-M172 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>20676</price>
+</offer>
+<offer sku="128015687_951777583">
+<name>HAUSLER Bayern Turbo Jet HLS-20TT5SC8/GOLDG золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>48989</price>
+</offer>
+<offer sku="113605436_594513270">
+<name>REDMOND HS1713 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24532</price>
+</offer>
+<offer sku="112050001_979386">
+<name>Samsung 18M31COHG черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>61500</price>
+</offer>
+<offer sku="100002781_311658329">
+<name>Ресанта дрель-шуруповерт РЕСАНТА ДА-24-2ЛК</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39990</price>
+</offer>
+<offer sku="5300377_473294162">
+<name>Remington S1450 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16214</price>
+</offer>
+<offer sku="108104121_832601779">
+<name>Шуруповерт Ресанта ДА-50Л2-18А</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33090</price>
+</offer>
+<offer sku="123155009_674042245">
+<name>Amazfit Active Edge 33.5 мм серый-серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49660</price>
+</offer>
+<offer sku="123879550_773292665">
+<name>Xiaomi Redmi Watch 5 Lite 50 мм черный-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34078</price>
+</offer>
+<offer sku="117820383_591798280">
+<name>Scarlett SC-HS60009 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9135</price>
+</offer>
+<offer sku="123879450_735392782">
+<name>Xiaomi Redmi Watch 5 Active 51 мм серебристый-серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>22487</price>
+</offer>
+<offer sku="ex_104528343">
+<name>SteelSeries QcK Prism Cloth Medium 320x270x4 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17891</price>
+</offer>
+<offer sku="100049613_211881228">
+<name>Бассейн каркасный Intex Metal Frame 28210/56994</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>52990</price>
+</offer>
+<offer sku="100045745_921175462">
+<name>CENTEK машинка универсальное CT-2134</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7487</price>
+</offer>
+<offer sku="116620782_705275076">
+<name>Kieslect Lady Watch Lora 2 золотистый-белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>28097</price>
+</offer>
+<offer sku="114319539_725052814">
+<name>Deerma DEM-CF50 фен 1500 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24546</price>
+</offer>
+<offer sku="116620413_478285283">
+<name>Kieslect Calling Watch Kr2 серебристый-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33324</price>
+</offer>
+<offer sku="116620438_288537039">
+<name>Kieslect Calling Watch Kr2 черный-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33324</price>
+</offer>
+<offer sku="100032210_915724529">
+<name>СТАВР ПДЭ-235/2100</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>46889</price>
+</offer>
+<offer sku="114319369_901124172">
+<name>Deerma DEM-CF50 фен 1500 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25713</price>
+</offer>
+<offer sku="60500010_064065519">
+<name>СТАВР АСПТ- 900М</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17900</price>
+</offer>
+<offer sku="116620470_393576157">
+<name>Kieslect Calling Watch Ks2 черно-синий-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33324</price>
+</offer>
+<offer sku="101253736_378767433">
+<name>HyperX CloudX Xbox HHSC2-CG-SL/G черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38989</price>
+</offer>
+<offer sku="115210845_152559921">
+<name>REDMOND HD1701 компактный фен 1600 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>69532</price>
+</offer>
+<offer sku="15400210">
+<name>Бассейн каркасный Intex 28210NP</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52996</price>
+</offer>
+<offer sku="116620657_430995936">
+<name>Kieslect Calling Watch Ks2 серебристый-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>33324</price>
+</offer>
+<offer sku="100606990_355803734">
+<name>Шлифмашина угловая Kolner KAG 125/1000M</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>18290</price>
+</offer>
+<offer sku="101856552_972079031">
+<name>Remington D1500 компактный фен 2000 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21805</price>
+</offer>
+<offer sku="115681502_636102265">
+<name>Remington D3190S фен 2200 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>32658</price>
+</offer>
+<offer sku="15400213">
+<name>Бассейн каркасный Intex 28273NP Rectangular, 450x220x84 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>74900</price>
+</offer>
+<offer sku="100444925_781573818">
+<name>Шлифмашина угловая Kolner KAG 150/1400</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21500</price>
+</offer>
+<offer sku="114216806_691274635">
+<name>Remington AC8820 фен 2200 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>46078</price>
+</offer>
+<offer sku="100606953_392900476">
+<name>Kolner KCS 190/1900T</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39200</price>
+</offer>
+<offer sku="115682560_059431189">
+<name>Remington AS5860 фен-щетка 800 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>60101</price>
+</offer>
+<offer sku="108455750_354066353">
+<name>Scarlett SC-HD70I54 фен 2400 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11319</price>
+</offer>
+<offer sku="116986427_131699022">
+<name>HAUSLER HLS-S4BLGT1 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>82990</price>
+</offer>
+<offer sku="106632815_571029022">
+<name>Игровое AeroCool 2 Alpha ACGC-2010101.11, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>116177</price>
+</offer>
+<offer sku="100822261_756814698">
+<name>для удаления катышков Xiaomi Deerma Lint Remover</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12472</price>
+</offer>
+<offer sku="107585077_435714257">
+<name>Deerma DX888 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29120</price>
+</offer>
+<offer sku="104768409">
+<name>Samsung LS32A600NWIXCI черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>179990</price>
+</offer>
+<offer sku="116618559_098697825">
+<name>Soocas Spark MT1-PRO щетина средняя</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16440</price>
+</offer>
+<offer sku="101177352_643656009">
+<name>Deerma DEM-HS200 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>37885</price>
+</offer>
+<offer sku="118192397_599663895">
+<name>Oclean P1C Plaque Control-Brush Head стандартная 2 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7549</price>
+</offer>
+<offer sku="119565808_968990274">
+<name>34" Xiaomi Curved Gaming Monitor G34WQi черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>179900</price>
+</offer>
+<offer sku="118230414_740884766">
+<name>Oclean P1C5 B06 стандартная 6 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13349</price>
+</offer>
+<offer sku="102179805_123760971">
+<name>Увлажнитель воздуха Deerma DEM-ST635W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29987</price>
+</offer>
+<offer sku="124502230_716829851">
+<name>Xiaomi Buds 5 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>61408</price>
+</offer>
+<offer sku="120643433_684132098">
+<name>Elari KidPhone Маша и Медведь 44 мм оранжевый-оранжевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>73182</price>
+</offer>
+<offer sku="101353256_777185807">
+<name>Kitfort КТ-928-1 голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13989</price>
+</offer>
+<offer sku="108389310_892682429">
+<name>Xiaomi звуковая Oclean Flow White щетина средняя</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11500</price>
+</offer>
+<offer sku="100311683_515829423">
+<name>Deerma NU05 Juice Blender розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10969</price>
+</offer>
+<offer sku="120643478_861021686">
+<name>Elari 4GR M красно-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>56741</price>
+</offer>
+<offer sku="120643591_301312834">
+<name>Elari 4GR M желтый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>56741</price>
+</offer>
+<offer sku="12500167">
+<name>Шлифмашина угловая Kolner KAG 125/750</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14282</price>
+</offer>
+<offer sku="115892693_263205243">
+<name>Elari KidPhone 4G Wink сиреневый-сиреневый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>59964</price>
+</offer>
+<offer sku="111223210_511882702">
+<name>Genius HS-M910BT черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>6603</price>
+</offer>
+<offer sku="120643602_404040269">
+<name>Elari Chrono Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>23258</price>
+</offer>
+<offer sku="118474447_875700941">
+<name>Ritmix RH-804 BTH TWS белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8200</price>
+</offer>
+<offer sku="129156960_447021776">
+<name>Huawei Watch GT 5 Pro 42 мм белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>235084</price>
+</offer>
+<offer sku="130658956_967306355">
+<name>Motorola G35 5G 8 ГБ/256 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>109990</price>
+</offer>
+<offer sku="110147222">
+<name>ALMACOM WD-CFO-51BN серебристый, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>65989</price>
+</offer>
+<offer sku="130069611">
+<name>AVANT WM-FAF70W-W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>127989</price>
+</offer>
+<offer sku="116758743_665371136">
+<name>REDMOND HS1716 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38169</price>
+</offer>
+<offer sku="130658977_262630443">
+<name>Motorola G35 5G 8 ГБ/256 ГБ красный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>109990</price>
+</offer>
+<offer sku="112628540_195015841">
+<name>Электрочайник Scarlett SC-EK21S76 красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8262</price>
+</offer>
+<offer sku="100113426_880410534">
+<name>Hitachi CV-SC22 240C PWH белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>99314</price>
+</offer>
+<offer sku="129767563_256105069">
+<name>HAUSLER HLS-04FT0SCGSS серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49499</price>
+</offer>
+<offer sku="100391553_703130585">
+<name>Deerma HX10 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>20579</price>
+</offer>
+<offer sku="116417590_349732903">
+<name>Realme C67 6 ГБ/128 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>72428</price>
+</offer>
+<offer sku="101459452_602991511">
+<name>Коляска прогулочная Xiaomi MITU, синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52553</price>
+</offer>
+<offer sku="101459451_866075954">
+<name>Коляска прогулочная Xiaomi MITU, розовый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52553</price>
+</offer>
+<offer sku="129156995_878855776">
+<name>Huawei Watch GT 5 Pro 42 мм золотистый-белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>297014</price>
+</offer>
+<offer sku="128885579_523568014">
+<name>Коляска прогулочная Xiaomi BEBEHOO ST201, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>58221</price>
+</offer>
+<offer sku="118159485_951884430">
+<name>Kitfort КТ-5162 черный, зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>92241</price>
+</offer>
+<offer sku="128164936_499800410">
+<name>Xiaomi Dust Mite Vacuum Cleaner 2 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>27656</price>
+</offer>
+<offer sku="103587131_914515918">
+<name>Tefal IXEO+ QT1511E0 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>245441</price>
+</offer>
+<offer sku="122736014_338054744">
+<name>Фильтр DREAME HHP1</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21850</price>
+</offer>
+<offer sku="100242110_348807434">
+<name>REDMOND RBM-1915 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>95385</price>
+</offer>
+<offer sku="100342959_698032634">
+<name>Kitfort KT-2038-1 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44657</price>
+</offer>
+<offer sku="115168025_486964209">
+<name>REDMOND BH400 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49078</price>
+</offer>
+<offer sku="119882573_605714160">
+<name>Фильтр DREAME RHF8</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4719</price>
+</offer>
+<offer sku="119886114_995379618">
+<name>Тряпка-накладка DREAME RMP9</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4562</price>
+</offer>
+<offer sku="6300685_195386678">
+<name>Электрочайник Scarlett SC-EK21S26 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10769</price>
+</offer>
+<offer sku="123154412_288426169">
+<name>Amazfit Active Edge 33.5 мм зеленый-зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49660</price>
+</offer>
+<offer sku="101385277_084934874">
+<name>Электрочайник Kitfort КТ-641 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>19297</price>
+</offer>
+<offer sku="128005843_435839000">
+<name>Xiaomi MI ROBOT VACUUM E10 B106GL белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>95385</price>
+</offer>
+<offer sku="107031639_581237187">
+<name>Kitfort КТ-1343-2 голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>100612</price>
+</offer>
+<offer sku="102200939_110324084">
+<name>Philips BHS376/00 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>31351</price>
+</offer>
+<offer sku="114116907_123649458">
+<name>Atlant ХМ-4626-109-ND белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>282699</price>
+</offer>
+<offer sku="124502011_635142503">
+<name>Xiaomi Buds 5 серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64078</price>
+</offer>
+<offer sku="103014841">
+<name>Atlant ХМ-4623-149-ND серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>273349</price>
+</offer>
+<offer sku="123801545_824524984">
+<name>Аэрогриль Xiaomi Air Fryer Essential 6L</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>58623</price>
+</offer>
+<offer sku="119882646_790865813">
+<name>Мешок-пылесборник DREAME RDB3</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3618</price>
+</offer>
+<offer sku="5301629_207556767">
+<name>Philips BHS375 Essential утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25896</price>
+</offer>
+<offer sku="114871913_939470161">
+<name>Amazfit Balance черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>90800</price>
+</offer>
+<offer sku="6200773_910572431">
+<name>Ballu BHC-CE-3T настенный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>43990</price>
+</offer>
+<offer sku="104386671_420397086">
+<name>Электрочайник Xiaomi Electric Kettle 2 BHR5927EU белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>23383</price>
+</offer>
+<offer sku="120643697_541642796">
+<name>Elari Watch Lite черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17017</price>
+</offer>
+<offer sku="113960381_317285841">
+<name>Xiaomi Compact Hair Dryer H101 компактный фен 1600 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10130</price>
+</offer>
+<offer sku="130158785">
+<name>Масляный радиатор Ballu Classic BOH/CL-09WRN 2000 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25999</price>
+</offer>
+<offer sku="121575121_594469086">
+<name>DREAME Z20 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259985</price>
+</offer>
+<offer sku="120643464_465413623">
+<name>Elari KidPhone Маша и Медведь черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>73182</price>
+</offer>
+<offer sku="130158799">
+<name>Масляный радиатор Ballu Classic BOH/CL-11WRN 2200 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29778</price>
+</offer>
+<offer sku="3701526_870427051">
+<name>Hitachi CV-SC22 240C BRE красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>99314</price>
+</offer>
+<offer sku="113569224">
+<name>Ballu электрическая BKR-3 2 кВт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9979</price>
+</offer>
+<offer sku="105599166_038681803">
+<name>Тепловентилятор Ballu BFH/С-29 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12130</price>
+</offer>
+<offer sku="122800207_240826270">
+<name>Philips OneBlade QP225/50 сменные лезвия</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>26124</price>
+</offer>
+<offer sku="105657137_015910002">
+<name>Philips триммер универсальное MG3740/15</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>36805</price>
+</offer>
+<offer sku="130096216_473887302">
+<name>Philips BHD302/30 фен 1600 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>24532</price>
+</offer>
+<offer sku="109524979_950258484">
+<name>Philips BHA710/00 фен-щетка 1000 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>85896</price>
+</offer>
+<offer sku="120295453_825760895">
+<name>ASUS TUF Gaming A15 15.6" / 16 Гб / SSD 512 Гб / Без ОС / FA507NV-LP025 / 90NR0E85-M008K0</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>584501</price>
+</offer>
+<offer sku="116375054_225294387">
+<name>Philips S5885/35 роторная от аккумулятора</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>130669</price>
+</offer>
+<offer sku="115965642_944136110">
+<name>Gorenje W1NHEI74SAS белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>175000</price>
+</offer>
+<offer sku="102692971_292350">
+<name>Amazfit GTS 3 золотистый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39800</price>
+</offer>
+<offer sku="100763181_441070200">
+<name>Samsung RB37A5491EL/WT бежевый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>311000</price>
+</offer>
+<offer sku="115020854_504935769">
+<name>ASUS ExpertBook B1 B1502CVA-BQ0347 15.6" / 16 Гб / SSD 512 Гб / Без ОС / 90NX06X1-M00CJ0</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>409900</price>
+</offer>
+<offer sku="22700177">
+<name>Набор автомобильный 151 в 1 STELS 14114</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>118800</price>
+</offer>
+<offer sku="8700406_037387024">
+<name>Philips триммер универсальное MG-3720/15</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>39532</price>
+</offer>
+<offer sku="100666662_482979479">
+<name>Philips звуковая Sonicare For Kids HX6352/42 щетина мягкая</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>64078</price>
+</offer>
+<offer sku="124271349_899337042">
+<name>Gorenje W3NHEI74SAS серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>189987</price>
+</offer>
+<offer sku="5301810_223161674">
+<name>Philips BHD272/00 фен 2100 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>47714</price>
+</offer>
+<offer sku="123910509_080192887">
+<name>Xiaomi Vacuum Cleaner G20 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109749</price>
+</offer>
+<offer sku="123900856_362454925">
+<name>Xiaomi Vacuum Cleaner G20 Max D206-DS черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>144488</price>
+</offer>
+<offer sku="110452976_531633765">
+<name>Увлажнитель воздуха Xiaomi Smart Humidifier 2 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>30318</price>
+</offer>
+<offer sku="130731309_589496450">
+<name>AVANT MO-21P700ID-W01B черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>28500</price>
+</offer>
+<offer sku="103868293_420357199">
+<name>Xiaomi штопор HuoHou Electric Wine Opener HU0027 электрический</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>11215</price>
+</offer>
+<offer sku="110006786_502903491">
+<name>Deerma DEM-VX20 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>86638</price>
+</offer>
+<offer sku="119675547_914235163">
+<name>Xiaomi Vacuum Cleaner G20 Lite белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>54091</price>
+</offer>
+<offer sku="100844250">
+<name>ART FiT AF-1017 вертикальный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>66752</price>
+</offer>
+<offer sku="6301333_001365399">
+<name>Электрочайник GALAXY GL 0318 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>10000</price>
+</offer>
+<offer sku="100560143_803341537">
+<name>Xiaomi Soocas H5 фен 1800 Вт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14838</price>
+</offer>
+<offer sku="117516754_973893283">
+<name>Edifier X2S черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8591</price>
+</offer>
+<offer sku="100138135_288408249">
+<name>Kitfort KT-2009 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>28623</price>
+</offer>
+<offer sku="110221645">
+<name>Atlant ХМ-4524-050-ND черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>362879</price>
+</offer>
+<offer sku="119345370_316340714">
+<name>HAUSLER Corded stik vacuum cleaner HLS-06TT5NCGBS золотистый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>18900</price>
+</offer>
+<offer sku="105198137_931784290">
+<name>Xiaomi машинка для стрижки LFQ03KL</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>14731</price>
+</offer>
+<offer sku="101276645">
+<name>Samsung RB33A32N0EL/WT бежевый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>277000</price>
+</offer>
+<offer sku="130554813_793528628">
+<name>Motorola G75 5G 8 ГБ/256 ГБ серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149990</price>
+</offer>
+<offer sku="120813705_495838486">
+<name>Hansa FK3356.5DFX серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>225577</price>
+</offer>
+<offer sku="102061240_979992746">
+<name>Kitfort КТ-557 0.4 л белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>60362</price>
+</offer>
+<offer sku="100687433">
+<name>Tefal Compact Power XXL TW4855EA черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>72900</price>
+</offer>
+<offer sku="119345959_489083719">
+<name>HAUSLER Runway Jet i3 pro HLS-01FT0SСAGS BLUE голубой</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>34700</price>
+</offer>
+<offer sku="112480241_306739824">
+<name>Hansa ZWM447WH белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>192200</price>
+</offer>
+<offer sku="118821535_103746126">
+<name>Tefal X-Trem Cyclonic Max TW7B33EA черный, красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>113000</price>
+</offer>
+<offer sku="106029156">
+<name>Hansa FS1995.4W 198 л белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109000</price>
+</offer>
+<offer sku="103490704_787136086">
+<name>Бассейн каркасный Bestway 56416, 366x366x76 см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>62620</price>
+</offer>
+<offer sku="110523921_588277649">
+<name>Midea Aurora 3 MSAB-18HRN8 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259900</price>
+</offer>
+<offer sku="120879685_561454469">
+<name>HAUSLER HLS-BI67BL4M черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>102990</price>
+</offer>
+<offer sku="120489647_465158447">
+<name>Аэрогриль Xiaomi Smart Air Fryer 5.5L MAF15</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>73169</price>
+</offer>
+<offer sku="6200139">
+<name>тепловентилятор Ballu BFH/S-04</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>8000</price>
+</offer>
+<offer sku="116210779_198662145">
+<name>Фильтр Xiaomi AFEP7TFX19</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>51433</price>
+</offer>
+<offer sku="133044149_909039180">
+<name>HAUSLER WWKHS80DGIM серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>179000</price>
+</offer>
+<offer sku="133153372_457872182">
+<name>LG F2 V3PS6J черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>230000</price>
+</offer>
+<offer sku="11600449">
+<name>SVEN MS-2050 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>42463</price>
+</offer>
+<offer sku="133044082_587255785">
+<name>HAUSLER WWKHS10DRIM серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>259000</price>
+</offer>
+<offer sku="133044102_987340629">
+<name>HAUSLER WWKHS10DGIM серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>228990</price>
+</offer>
+<offer sku="118539208">
+<name>Motorola Edge 50 Pro 12 ГБ/512 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>279990</price>
+</offer>
+<offer sku="121554993">
+<name>TCL TAC-TP09ONF/ATPH11 белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>120990</price>
+</offer>
+<offer sku="105805231">
+<name>GEFEST ПВГ 2232-01 К43</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>109295</price>
+</offer>
+<offer sku="108697612">
+<name>Atlant 4625-159-ND черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>301000</price>
+</offer>
+<offer sku="123292108_617778394">
+<name>Lenovo LOQ 15AHP9 15.6" / 16 Гб / SSD 1024 Гб / DOS / 83DX00BJRK</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>620989</price>
+</offer>
+<offer sku="100675761">
+<name>GEFEST ЭДВ ДА 602-02 К93 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>142989</price>
+</offer>
+<offer sku="100369446_541980231">
+<name>LG F4V5VG2S серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>329900</price>
+</offer>
+<offer sku="117201773_501814883">
+<name>HAUSLER HLS-BI60BLG750S черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>68986</price>
+</offer>
+<offer sku="129767567">
+<name>HAUSLER HAS-60-4BCK-W стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>60990</price>
+</offer>
+<offer sku="128015688_059671461">
+<name>HAUSLER Skyline Turbo Jet HLS-20TT5SC8/REDG красный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>48900</price>
+</offer>
+<offer sku="113138076_176986964">
+<name>Игровое кресло DXRacer Gladiator GC/GN23/NR, черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>108399</price>
+</offer>
+<offer sku="109904613_902511">
+<name>Бассейн каркасный Bestway 5618W, 396x122 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>173300</price>
+</offer>
+<offer sku="121303157_519463760">
+<name>ASUS FA506NF-HN102 15.6" / 16 Гб / SSD 512 Гб / Без ОС / 90NR0JE7-M008C0</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>399200</price>
+</offer>
+<offer sku="129316268_966684344">
+<name>Xiaomi Robot Vacuum X20 Max D109GL черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>422714</price>
+</offer>
+<offer sku="101301051">
+<name>Игровое COUGAR Explore Black</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>114999</price>
+</offer>
+<offer sku="114335094_676656529">
+<name>Tefal Silence Force Cyclonic Effitech TW7976EA черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>218638</price>
+</offer>
+<offer sku="121987617_490668164">
+<name>MSI Cyborg 15 A13VF 15.6" / 16 Гб / SSD 512 Гб / DOS / 9S7-15K111-1426</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>605000</price>
+</offer>
+<offer sku="117250202_680853312">
+<name>Deerma T30W черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>72224</price>
+</offer>
+<offer sku="133220972">
+<name>LG F2V3PS6J черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>215900</price>
+</offer>
+<offer sku="107843533_253501691">
+<name>Kitfort машинка универсальное KT-3130-1</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>13760</price>
+</offer>
+<offer sku="108199006_186319356">
+<name>Tefal X-Force Flex 14.60 Aqua TY99C0WO черный, синий</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>250900</price>
+</offer>
+<offer sku="119882553_904781544">
+<name>Щетка DREAME RMB10</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>21891</price>
+</offer>
+<offer sku="123713911_813076105">
+<name>ASUS Zenbook S 14 OLED 14" / 32 Гб / SSD 1024 Гб / Win 11 / UX5406SA-PV050W / 90NB14F1-M007W0</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>995300</price>
+</offer>
+<offer sku="129627372_650599826">
+<name>Портативная колонка SVEN PS-930 черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>95000</price>
+</offer>
+<offer sku="117399830_913385998">
+<name>Аэрогриль Kitfort KT-2227</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>82078</price>
+</offer>
+<offer sku="130292480_074615053">
+<name>HAUSLER HLS-B072Q9DBC черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>139990</price>
+</offer>
+<offer sku="117734027_799241386">
+<name>Tefal X-Trem Cyclonic Effitech TW7C71EA черный, зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149800</price>
+</offer>
+<offer sku="122735836_352612292">
+<name>Щетка DREAME RMSRB0</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>4692</price>
+</offer>
+<offer sku="100310681_592014206">
+<name>Бирюса SBS 587 I серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>352500</price>
+</offer>
+<offer sku="115458824_342110553">
+<name>Samsung Jet 75E Complete VS20B75ACR5/EV черный, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>169000</price>
+</offer>
+<offer sku="117735285_582440174">
+<name>Tefal X-Trem Cyclonic Max TW7B11EA черный, синий</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>104332</price>
+</offer>
+<offer sku="116230353_737650492">
+<name>Yasin LED-50UD81 127 см черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>153000</price>
+</offer>
+<offer sku="122705105_774249943">
+<name>Щетка DREAME RSB7</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3590</price>
+</offer>
+<offer sku="121679095">
+<name>Almagreen AG-TRF-465W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>239979</price>
+</offer>
+<offer sku="101345653">
+<name>HUION Kamvas Pro 12</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>137489</price>
+</offer>
+<offer sku="124101596_064510141">
+<name>TROUVER E20 Pro белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>69900</price>
+</offer>
+<offer sku="124138226_674006769">
+<name>TROUVER E20 Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>69716</price>
+</offer>
+<offer sku="131772442_917714472">
+<name>Rebus RIF-350-1 350 л белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>142000</price>
+</offer>
+<offer sku="ex_2700336">
+<name>ATLANT ХМ-6026-080 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>241989</price>
+</offer>
+<offer sku="118703524_040919495">
+<name>Щетка DREAME RSB9</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>3582</price>
+</offer>
+<offer sku="119885371_374453201">
+<name>Набор аксессуаров DREAME RAK12</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>12760</price>
+</offer>
+<offer sku="106214211_762763936">
+<name>Увлажнитель воздуха Xiaomi Smart Humidifier 2 Lite MJJSQ06DY белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>20594</price>
+</offer>
+<offer sku="107843522_300539092">
+<name>Kitfort KT-3111 сеточная от аккумулятора</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>9532</price>
+</offer>
+<offer sku="129548137_102462713">
+<name>ASUS TUF Gaming F15 15.6" / 16 Гб / SSD 1024 Гб / Без ОС / 90NR0FV7-M00410 / FX507ZI4-LP036</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>744000</price>
+</offer>
+<offer sku="132471631">
+<name>24.5" ASRock PG25FFT черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>94997</price>
+</offer>
+<offer sku="108951168">
+<name>ASRock PG34WQ15R2B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>239990</price>
+</offer>
+<offer sku="117786520_552191361">
+<name>ASUS A5402WVAK-WA0350 90PT03J1-M00PW0 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>401826</price>
+</offer>
+<offer sku="113372273_215877">
+<name>Портативная колонка SVEN PS-710 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>60704</price>
+</offer>
+<offer sku="128120293_675090909">
+<name>Yasin 55Q7A Ultra 140 см черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>220989</price>
+</offer>
+<offer sku="109792237">
+<name>Dreame R10 Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>129987</price>
+</offer>
+<offer sku="130968474_769633991">
+<name>HAUSLER HLS-20LM7A0S серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35900</price>
+</offer>
+<offer sku="129767565_405265980">
+<name>HAUSLER HLS-60-BCK-WK черный, стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>59990</price>
+</offer>
+<offer sku="130968455_611835379">
+<name>HAUSLER HLS-20LD7A13B черный, серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>45900</price>
+</offer>
+<offer sku="131103514_069630342">
+<name>HAUSLER HLS-20LD7A6B черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>36900</price>
+</offer>
+<offer sku="109792484_470743288">
+<name>DREAME R10 белый, золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>96892</price>
+</offer>
+<offer sku="112764666_344168033">
+<name>DREAME U10 бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>89980</price>
+</offer>
+<offer sku="112764661_877471840">
+<name>DREAME U20 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>90987</price>
+</offer>
+<offer sku="117199583_422352025">
+<name>Karcher SC 2 Deluxe 1.513-400.0 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>106990</price>
+</offer>
+<offer sku="100154456_214739744">
+<name>REDMOND RCI-2332 утюжок 30 мм</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29987</price>
+</offer>
+<offer sku="118074440">
+<name>Ballu BSGRI-09HN8_22Y белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>175900</price>
+</offer>
+<offer sku="118074413">
+<name>Ballu BSO-12HN8_22Y белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>149990</price>
+</offer>
+<offer sku="117735151_950415598">
+<name>Tefal Compact Power XXL TW4B75EA серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>89982</price>
+</offer>
+<offer sku="120865796_584852537">
+<name>Lenovo Yoga Pro 7 14.5" / 32 Гб / SSD 1000 Гб / Win 11 Home / 14IMH9 / 83E2009QRU</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>784999</price>
+</offer>
+<offer sku="118074422">
+<name>Ballu BSO-18HN8_22Y белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>229990</price>
+</offer>
+<offer sku="118062123">
+<name>Ballu BSD-09HN1_20Y белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>136500</price>
+</offer>
+<offer sku="134555180_277682429">
+<name>LG F2Y1HS6W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>175919</price>
+</offer>
+<offer sku="120335301_683094793">
+<name>Lenovo IdeaPad 3 15.6" / 8 Гб / SSD 512 Гб / Без ОС / 15IAU7 / 82RK0172RK</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>256000</price>
+</offer>
+<offer sku="116896352_823835625">
+<name>REDMOND HS1716 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>38169</price>
+</offer>
+<offer sku="133085792_760603621">
+<name>KONKA KT43-F683WB 109 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>125700</price>
+</offer>
+<offer sku="133044163_308546380">
+<name>HAUSLER WWKHS80WBIM белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>175990</price>
+</offer>
+<offer sku="103325919_561850169">
+<name>Аэрогриль Kitfort КТ-2237</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>66805</price>
+</offer>
+<offer sku="132440714_365504869">
+<name>Kitfort КТ-7468 стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>7667</price>
+</offer>
+<offer sku="113298064_918939226">
+<name>HyperX Cloud II Core черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>88851</price>
+</offer>
+<offer sku="117766837_827700345">
+<name>Hikers 55FZ 140 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>169725</price>
+</offer>
+<offer sku="128795367_893468010">
+<name>TECNO SPARK Go 1 4 ГБ/128 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52263</price>
+</offer>
+<offer sku="128794532_252434403">
+<name>TECNO SPARK Go 1 4 ГБ/64 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52053</price>
+</offer>
+<offer sku="128794009_583699942">
+<name>TECNO SPARK Go 1 4 ГБ/64 ГБ белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52053</price>
+</offer>
+<offer sku="129929680_810614722">
+<name>HONOR X5b Plus 4 ГБ/128 ГБ голубой</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>65070</price>
+</offer>
+<offer sku="130125203_097056124">
+<name>TECNO SPARK Go 1 4 ГБ/64 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52053</price>
+</offer>
+<offer sku="114310428_108412780">
+<name>HyperX CloudX Stinger Xbox 4P5K1AA черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>44987</price>
+</offer>
+<offer sku="119850679_021540370">
+<name>Razer KAIRA FOR XBOX - WHITE RZ04-03480200-R3M1 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>50300</price>
+</offer>
+<offer sku="108810679_123969567">
+<name>Razer Blackshark V2 + USB Sound Card черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>82317</price>
+</offer>
+<offer sku="119850700_738243443">
+<name>Razer KRAKEN X FOR CONSOLE RZ04-02890200-R3M1 черно-синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>56063</price>
+</offer>
+<offer sku="115119222_221116408">
+<name>Razer Kaira Pro HyperSpeed for PlayStation белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>88851</price>
+</offer>
+<offer sku="3700677_733082809">
+<name>Tefal Compact Power Cyclonic TW3786 черный, коричневый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>68970</price>
+</offer>
+<offer sku="101287251_689886875">
+<name>Мультиварка REDMOND RMC-M96 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>99532</price>
+</offer>
+<offer sku="100509545">
+<name>LG F2V5GG2S серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>365300</price>
+</offer>
+<offer sku="130554826_985979527">
+<name>Motorola G75 5G 8 ГБ/256 ГБ синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149990</price>
+</offer>
+<offer sku="128636607_634717635">
+<name>TECNO SPARK Go 1 3 ГБ/64 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>45546</price>
+</offer>
+<offer sku="116165797_209925261">
+<name>Hansa WHE7120WL белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>133000</price>
+</offer>
+<offer sku="106565764_993450927">
+<name>Kitfort КТ-2018 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29783</price>
+</offer>
+<offer sku="112127197_585887047">
+<name>Зарядная станция HyperX ChargePlay Duo белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>26124</price>
+</offer>
+<offer sku="113643802_055092710">
+<name>Razer Kaira Pro for PlayStation 5 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>150272</price>
+</offer>
+<offer sku="113404178_635303082">
+<name>Transcend TS4TSJ25M3C 4000 Гб</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>86916</price>
+</offer>
+<offer sku="120082741_174644383">
+<name>Платочки Snow Classic Leaf 10 шт</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>670</price>
+</offer>
+<offer sku="118474501_687087367">
+<name>Бумажные салфетки Ocean world 56 шт</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>275</price>
+</offer>
+<offer sku="132229199_793057514">
+<name>KONKA KWM08-12B13BS серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149171</price>
+</offer>
+<offer sku="116631430_930921546">
+<name>Бассейн каркасный Bestway 561FT, 366x201x66 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>49990</price>
+</offer>
+<offer sku="109669679_818524057">
+<name>Бассейн каркасный Bestway 56405, 400x211x81 см</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>74500</price>
+</offer>
+<offer sku="120368620_989977616">
+<name>Yasin YSH-09-GDK белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124898</price>
+</offer>
+<offer sku="113958361_371160808">
+<name>LG F2V3FS6W белый</name>
+<pickup-options>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>215000</price>
+</offer>
+<offer sku="117766913_188812528">
+<name>Hikers 50FZ 127 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>147990</price>
+</offer>
+<offer sku="110647674_222733667">
+<name>HyperX Cloud Stinger 2 Core PC черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>36805</price>
+</offer>
+<offer sku="101064646_748200">
+<name>Tefal Clean Steam VP7751WH фиолетовый, белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>182600</price>
+</offer>
+<offer sku="120369043_015876502">
+<name>Yasin YSH-12-GDK белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>144580</price>
+</offer>
+<offer sku="101045733_528378826">
+<name>Tefal X-Force Flex 11.60 TY9890WO синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>159985</price>
+</offer>
+<offer sku="131469972_527131720">
+<name>Игровое кресло DXRacer Hammer Steppe edition GC/LHE23LTALTD/QZQ.E, зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>190773</price>
+</offer>
+<offer sku="101821344_804699865">
+<name>Midea MDRB521MGE34T бежевый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>335993</price>
+</offer>
+<offer sku="128120372_012127014">
+<name>Yasin 50Q7A Ultra 127 см черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>179985</price>
+</offer>
+<offer sku="130658858_332382749">
+<name>Motorola G35 5G 8 ГБ/256 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>109990</price>
+</offer>
+<offer sku="100491624">
+<name>Аэрогриль CENTEK CT-1456</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35700</price>
+</offer>
+<offer sku="108365788_865165186">
+<name>трансформер ART-Wave STR-503, 346см</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52990</price>
+</offer>
+<offer sku="108064012_002414693">
+<name>Аэрогриль Kitfort KT-2247</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>128056</price>
+</offer>
+<offer sku="123155742_453424897">
+<name>Amazfit Active Edge 33.5 мм черный-черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>51819</price>
+</offer>
+<offer sku="117766947_833453994">
+<name>Hikers 43FZ 109 см черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>92987</price>
+</offer>
+<offer sku="105071365">
+<name>DITREEX DTXS-09K3XA41A белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>112300</price>
+</offer>
+<offer sku="103643280_740013">
+<name>Atlant М-7606-180-N 278 л серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>265900</price>
+</offer>
+<offer sku="2702236">
+<name>Atlant ХМ 4624-141 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>211700</price>
+</offer>
+<offer sku="112622371_156556">
+<name>Atlant ATLANT ХМ 4623-141 серебристый</name>
+<pickup-options>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>202499</price>
+</offer>
+<offer sku="112450679_153291227">
+<name>HAUSLER DS6-905 S черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>35990</price>
+</offer>
+<offer sku="108238433_104294962">
+<name>HyperX Cloud Flight PS4 4P5H6AA черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>52100</price>
+</offer>
+<offer sku="121187559_532245982">
+<name>Atlant М-7606-140-ND 278 л серебристый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>271496</price>
+</offer>
+<offer sku="120259919_215855950">
+<name>DREAME R10 Pro Aqua черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>151662</price>
+</offer>
+<offer sku="118155917_244498303">
+<name>Gree GWH18ALD-K6DNA3A + монтажный комплект белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>312000</price>
+</offer>
+<offer sku="ex_105096504">
+<name>DITREEX DTXS-09K3XA41A белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>122000</price>
+</offer>
+<offer sku="106894616">
+<name>HAUSLER 67HLB4T1 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>78990</price>
+</offer>
+<offer sku="ex_105096494">
+<name>DITREEX DTXS-07K3XA41A белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>99996</price>
+</offer>
+<offer sku="135039399_537185393">
+<name>Смарт-часы Xiaomi Watch S4 47 мм черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>113681</price>
+</offer>
+<offer sku="119926458_985162051">
+<name>Dahua DHI-LM43-F400 черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP11"/>
+</pickup-options>
+<price>256364</price>
+</offer>
+<offer sku="100768238">
+<name>Samsung RB37A5200EL/WT бежевый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>280000</price>
+</offer>
+<offer sku="101385142_684553">
+<name>Бирюса 521RN белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>284990</price>
+</offer>
+<offer sku="ex_105059627">
+<name>ART FiT AF-4.6ft-140cm синий</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>34990</price>
+</offer>
+<offer sku="22700129">
+<name>Набор универсальный 94 предмета STELS 14106</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>53640</price>
+</offer>
+<offer sku="129796697">
+<name>Стиральная машина AVANT WM-FAF80JP-G серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP10"/>
+</pickup-options>
+<price>128900</price>
+</offer>
+<offer sku="130974860_500815772">
+<name>HAUSLER HLS-20LM7A0B черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29290</price>
+</offer>
+<offer sku="122179299_742573081">
+<name>Motorola G85 5G 12 ГБ/256 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>159990</price>
+</offer>
+<offer sku="132227366_834555986">
+<name>Стиральная машина KONKA KWD12-14M22BW белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>268380</price>
+</offer>
+<offer sku="22700202">
+<name>Набор инструментов автомобильный 216 в 1 STELS 14115</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>141600</price>
+</offer>
+<offer sku="108365850_256904361">
+<name>ART-Wave STR-1038, 380см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>54917</price>
+</offer>
+<offer sku="22700193">
+<name>Набор инструментов и оснастки автомобильный 109 в 1 STELS 14122</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>74370</price>
+</offer>
+<offer sku="42600069">
+<name>STELS домкрат подкатной 51134 3 т</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>68900</price>
+</offer>
+<offer sku="112665024_915200312">
+<name>ART-Wave лестница STR-507, 780 см</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>89990</price>
+</offer>
+<offer sku="4600658_394137045">
+<name>Samsung DW50R4040BB/WT белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>262728</price>
+</offer>
+<offer sku="137833407_176158559">
+<name>Холодильник AVANT RNC-250G01G черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>175990</price>
+</offer>
+<offer sku="133297819_385596592">
+<name>LG F2V3FR6W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>255703</price>
+</offer>
+<offer sku="106762606_951602525">
+<name>Hansa FS 2496.3W 249 л белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>140000</price>
+</offer>
+<offer sku="100643406_943233772">
+<name>Бирюса CD 466 BG черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>404990</price>
+</offer>
+<offer sku="100716130_897706">
+<name>REDMOND RVS-M020 серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>54300</price>
+</offer>
+<offer sku="3700766">
+<name>Samsung VC18M31C0HG/EV черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>57000</price>
+</offer>
+<offer sku="129066122_624487721">
+<name>BEKO B1RCNK312W белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>224990</price>
+</offer>
+<offer sku="134555181_077757045">
+<name>LG F2Y1NS3W белый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>147000</price>
+</offer>
+<offer sku="104423926_209877020">
+<name>Бирюса М 6048 135 л серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>141138</price>
+</offer>
+<offer sku="100727008">
+<name>Samsung RB37A5200SA серебристый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>238000</price>
+</offer>
+<offer sku="15400012_107071197">
+<name>Бассейн каркасный Bestway Steel Pro Frame 56405, 400x211x81 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>72000</price>
+</offer>
+<offer sku="101264754_147625907">
+<name>Бассейн каркасный Bestway 5614X, 366x366x100 см</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>107900</price>
+</offer>
+<offer sku="100283899">
+<name>Бассейн каркасный Bestway 15327, 305x305x100 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>118500</price>
+</offer>
+<offer sku="100269359_351911236">
+<name>Бассейн каркасный Bestway 56260, 366x366x100 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>95600</price>
+</offer>
+<offer sku="116631467_235211703">
+<name>Бассейн каркасный Bestway 561FY, 396x396x107 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>173000</price>
+</offer>
+<offer sku="108448090">
+<name>Yasin 32G11 81 см черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>63118</price>
+</offer>
+<offer sku="113221970_809381302">
+<name>Электрочайник Xiaomi MJDSH05FD черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17909</price>
+</offer>
+<offer sku="129767569_335846144">
+<name>HAUSLER HCT-60-GBCK-1W черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>62990</price>
+</offer>
+<offer sku="100394518_866177389">
+<name>Magna MF3615U-03BL черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>29000</price>
+</offer>
+<offer sku="115154770_793372949">
+<name>Philips BHS378/00 Straightener утюжок 28 мм</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>50953</price>
+</offer>
+<offer sku="118062415_882619597">
+<name>Kitfort КТ-1044 голубой, белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>53441</price>
+</offer>
+<offer sku="120959248_346938761">
+<name>Бассейн каркасный Bestway Steel Pro MAX/15327, 305x305x100 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>84955</price>
+</offer>
+<offer sku="104418759_798919894">
+<name>Набор автомобильный 94 в 1 STELS 14118</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>61670</price>
+</offer>
+<offer sku="101714424_227242658">
+<name>Philips триммер для носа, для ушей NT1650</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>16350</price>
+</offer>
+<offer sku="106218937_994165400">
+<name>Philips 5000 Series BHS530/00 утюжок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>76350</price>
+</offer>
+<offer sku="132172842_039662563">
+<name>Пылесос TROUVER K30 Mix белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>299990</price>
+</offer>
+<offer sku="101214094">
+<name>Бассейн каркасный Bestway Steel Pro Max 56438, 457x122 см</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>218000</price>
+</offer>
+<offer sku="5300914_419460782">
+<name>Philips BHB868 плойка 32 мм</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>48340</price>
+</offer>
+<offer sku="103456168">
+<name>Atlant ХМ-4625-149-ND серый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>317889</price>
+</offer>
+<offer sku="110336216_748144303">
+<name>Холодильник Atlant ХМ-4624-101-NL белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>247076</price>
+</offer>
+<offer sku="138776714_621453343">
+<name>Кондиционер Yasin YSH-09-GDK белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>124999</price>
+</offer>
+<offer sku="117734146_510070720">
+<name>Tefal Compact Power XXL TW4B25EA черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>84822</price>
+</offer>
+<offer sku="133133391">
+<name>LG F2V3PS6W белый</name>
+<pickup-options>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>189250</price>
+</offer>
+<offer sku="118474536_322936015">
+<name>Samsung WW70AGAS22AELD белый</name>
+<pickup-options>
+<pickup-option id="PP9"/>
+</pickup-options>
+<price>209000</price>
+</offer>
+<offer sku="102861043">
+<name>ART-Wave 50EA взломостойкий электронный замок</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>49990</price>
+</offer>
+<offer sku="114746956_795493264">
+<name>Насадка Kitfort КТ-1000-02</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>5107</price>
+</offer>
+<offer sku="133432618_054983328">
+<name>HAUSLER R184-DEFRDG15 стальной</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>123900</price>
+</offer>
+<offer sku="123917973_441978455">
+<name>AVANT MO-20P700M-W01S серый</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>26500</price>
+</offer>
+<offer sku="112768293_811051732">
+<name>Аэрогриль Xiaomi DEM-KZ120W</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>67942</price>
+</offer>
+<offer sku="106445842_426921742">
+<name>Фильтр Xiaomi AFEP7TFM01</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>17654</price>
+</offer>
+<offer sku="101057467_964162684">
+<name>Гриль Tefal Optigrill Elite XL GC760D30</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+<pickup-option id="PP6"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>139424</price>
+</offer>
+<offer sku="4201472_493911593">
+<name>Gree Bora Inverter GWH18AAD-K3DNA1E белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>293632</price>
+</offer>
+<offer sku="104285184_520739962">
+<name>Фильтр Xiaomi M17-FLP-GL</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>25097</price>
+</offer>
+<offer sku="128392162_230390794">
+<name>Xiaomi Redmi Watch 5 Lite 50 мм золотистый-белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>32658</price>
+</offer>
+<offer sku="112589803">
+<name>Samsung WW80AG6L28BBLD черный</name>
+<pickup-options>
+<pickup-option id="PP7"/>
+</pickup-options>
+<price>292000</price>
+</offer>
+<offer sku="100726053_493145">
+<name>Samsung RB37A5200WW белый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>285100</price>
+</offer>
+<offer sku="138019475_950822603">
+<name>Холодильник AVANT RDC-310G01G черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>185990</price>
+</offer>
+<offer sku="110230132_138145364">
+<name>Realme C55 8 ГБ/256 ГБ черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>67936</price>
+</offer>
+<offer sku="Artist 22E Pro">
+<name>XP-PEN Artist 22E Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>300200</price>
+</offer>
+<offer sku="100755555">
+<name>XP-PEN Artist 24 Pro черный</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>377000</price>
+</offer>
+<offer sku="104705784">
+<name>Midea Aurora 2 MSAA-24HRN8 белый + монтажный комплект</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>359900</price>
+</offer>
+<offer sku="110887707_320497936">
+<name>Midea AURORA 3 MSAB-24HRN8 без медной трубы белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>349900</price>
+</offer>
+<offer sku="130554786_926471403">
+<name>Motorola G75 5G 8 ГБ/256 ГБ зеленый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>149990</price>
+</offer>
+<offer sku="110230027_279383894">
+<name>Realme C55 8 ГБ/256 ГБ золотистый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>129997</price>
+</offer>
+<offer sku="112859984_151114510">
+<name>ORION OVB-8006 серебристый</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+</pickup-options>
+<price>34989</price>
+</offer>
+<offer sku="132143788_380454420">
+<name>TROUVER K30 белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>189989</price>
+</offer>
+<offer sku="134858190_460449042">
+<name>Кондиционер Midea XTREME MEGA-18 Full DC Inverter + Wi-FI (с медной трубой) белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>319900</price>
+</offer>
+<offer sku="109002925">
+<name>Портативная колонка SVEN PS-800 черный</name>
+<pickup-options>
+<pickup-option id="PP6"/>
+<pickup-option id="PP7"/>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>67724</price>
+</offer>
+<offer sku="113954335_431198778">
+<name>LG F2V9FW9W белый</name>
+<pickup-options>
+<pickup-option id="PP5"/>
+</pickup-options>
+<price>326998</price>
+</offer>
+</offers>
     </shop>
 </fm_catalog>
