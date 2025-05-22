@@ -10,7 +10,7 @@
 <barcode>0123456789379</barcode>
 </barcodes>
 <pickup-options>
-<pickup-option id="PP12" />
+<pickup-option id="PP2" />
 </pickup-options>
 <delivery-options>
 <delivery-option city-id="KZ-ALA" cost="99990" days="6" />
