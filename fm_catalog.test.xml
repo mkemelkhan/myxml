@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2025-05-22 16:33">
+<fm_catalog date="2025-05-27 11:40">
 <shop>
 <merchant-id>MerchantID</merchant-id>
 <offers>
-<offer sku="1234321">
-<name>Тест</name>
-<vendor>Тест Brand</vendor>
+<offer sku="999">
+<name>Тест 27 мая</name>
+<vendor>Apple</vendor>
 <barcodes>
 <barcode>0123456789379</barcode>
 </barcodes>
