@@ -9,9 +9,6 @@
 <pickup-options>
 <pickup-option id="PP2" />
 </pickup-options>
-<delivery-options>
-<delivery-option city-id="KZ-ALA" cost="99990" days="6" />
-</delivery-options>
 <price>999999</price>
 </offer>
 </offers>
